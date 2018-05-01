@@ -1,0 +1,1240 @@
+Arrived	Location	Type and Price	Details
+Apr 22 2018	Azalea Campground
+Hume, California	National Park
+$18	
+Apr 17 2018	Horse Creek Campground
+Lemon Cove, California	Army Corps of Engineers
+$20	
+Apr 14 2018	Three Rivers Campground
+Three Rivers, California	State Park
+$45	
+Apr 11 2018	Paradise Cove
+Lake Isabella, California	National Forest
+$28	
+Mar 31 2018	Auxiliary Dam Campground
+Lake Isabella, California	National Forest Boondocking
+$0	
+Mar 30 2018	Castaic Lake
+Castaic, California	State Park
+$20	
+Mar 15 2018	Camarillo AirBnB
+Camarillo, California	House Rental
+$83	
+Mar 11 2018	Thronhill Broome State Beach
+Malibu, California	State Park
+$35	
+Mar 5 2018	Doheny State Beach
+Dana Point, California	State Park
+$40	
+Mar 1 2018	San Clemente State Beach
+San Clemente, California	State Park
+$65	
+Feb 25 2018	South Carlsbad State Beach
+Carlsbad, California	State Park
+$50	
+Feb 17 2018	Surf and Turf RV Park
+Del Mar, California	Private RV Park
+$32	
+Feb 16 2018	Viejas Casino
+Alpine, California	Parking Lot
+$0	
+Feb 11 2018	American Girl Mine Rd
+Winterhaven, California	BLM Boondocking
+$0	
+Feb 4 2018	Twin Peaks Campground - Organ Pipe
+Ajo, Arizona	National Park
+$16	
+Jan 28 2018	Darby Well Rd
+Ajo, Arizona	BLM Boondocking
+$0	
+Jan 14 2018	Lost Dutchman State Park
+Apache Junction, Arizona	State Park
+$20	
+Dec 30 2017	Palm Canyon Rd
+Yuma, Arizona	BLM Boondocking
+$0	
+Dec 29 2017	Dome Rock Rd
+Quartzsite, Arizona	BLM Boondocking
+$0	
+Dec 28 2017	Eureka Casino Resort
+Mesquite, Nevada	Parking Lot
+$0	
+Dec 8 2017	Storage
+St. George, Utah	Parking Lot
+$5	
+Dec 3 2017	Temple View RV Resort
+St. George, Utah	Private RV Park
+$36	
+Nov 26 2017	Sand Hollow State Park
+Hurricane, Utah	State Park
+$27	
+Nov 18 2017	Watchman Campground
+Hurricane, Utah	National Park
+$30	
+Nov 5 2017	Sheep Bridge Rd
+La Verkin, Utah	BLM Boondocking
+$0	
+Nov 4 2017	Walmart
+Washington, Utah	Parking Lot
+$0	
+Nov 3 2017	Forest Rd 225
+North Rim, Arizona	National Forest Boondocking
+$0	
+Oct 29 2017	Lee's Ferry Campground
+Marble Canyon, Arizona	National Park
+$20	
+Oct 28 2017	Lone Rock Beach
+Page, Utah	National Park
+$14	
+Oct 22 2017	Twin Hollow
+Kane County, Utah	BLM Boondocking
+$0	
+Oct 15 2017	Rubys RV Park
+Bryce, Utah	Private RV Park
+$32	
+Oct 7 2017	Hole in the Rock
+Escalante, Utah	BLM Boondocking
+$0	
+Oct 6 2017	Burr Trail Rd
+Boulder, Utah	BLM Boondocking
+$0	
+Oct 1 2017	Beas Lewis Flat
+Torrey, Utah	BLM Boondocking
+$0	
+Sep 29 2017	San Rafael Swell
+Emery County, Utah	BLM Boondocking
+$0	
+Sep 24 2017	Wedge Overlook Campsite #2
+Emery County, Utah	BLM Boondocking
+$0	
+Sep 17 2017	Jordanelle State Park
+Heber City, Utah	State Park
+$30	
+Sep 10 2017	Spruces Campground
+Salt Lake City, Utah	National Forest
+$23	
+Sep 9 2017	Burley Walmart
+Heyburn, Idaho	Parking Lot
+$0	
+Sep 2 2017	Boise Riverside RV Park
+Garden City, Idaho	Private RV Park
+$0	
+Aug 25 2017	Stanley Boondocking 2
+Stanley, Idaho	National Forest Boondocking
+$0	
+Aug 5 2017	Stanley Boondocking 1
+Stanley, Idaho	National Forest Boondocking
+$0	
+Jul 27 2017	Lake Creek Road
+Hailey, Idaho	National Forest Boondocking
+$0	
+Jul 23 2017	Boundry Campground
+Hailey, Idaho	National Forest
+$10	
+Jul 22 2017	Lava Flow Campground
+Arco, Idaho	National Park
+$15	
+Jul 4 2017	Teton Canyon Rd
+Moose, Wyoming	National Forest Boondocking
+$0	
+Jun 25 2017	National Forest Rd 281
+Irwin, Idaho	National Forest Boondocking
+$0	
+Jun 24 2017	12th St
+Evanston, Wyoming	Parking Lot
+$0	
+Jun 18 2017	Sweetwater Event Complex
+Rock Springs, Wyoming	County Park
+$25	
+Jun 11 2017	Forest Rd 296
+Steamboat Springs, Colorado	National Forest Boondocking
+$0	
+Jun 4 2017	Stillwater Campground
+Granby, Colorado	National Forest
+$24	
+May 27 2017	Friends House
+Idaho Springs, Colorado	Private Residence
+$0	
+May 21 2017	Clear Creek RV Park
+Golden, Colorado	City Park
+$40	
+May 20 2017	Arbys
+Limon, Colorado	Parking Lot
+$0	
+May 19 2017	Walmart
+Junction City, Kansas	Parking Lot
+$0	
+May 14 2017	Private Residence
+Baldwin City, Kansas	Private Residence
+$0	
+May 12 2017	Hawker Point Campground
+Stockton, Missouri	Army Corps of Engineers
+$14	
+May 6 2017	Ozark Highlands
+Springfield, Missouri	Private RV Park
+$40	
+May 5 2017	Walmart
+Pineville, Missouri	Parking Lot
+$0	
+May 4 2017	Vine Prairie Park
+Mulberry, Arkansas	City Park
+$20	
+Apr 30 2017	Petit Jean State Park
+Morrilton, Arkansas	State Park
+$20	
+Apr 23 2017	Gulpha Gorge Campground
+Hot Springs Township, Arkansas	National Park
+$30	
+Apr 22 2017	Walmart - McGehee
+McGehee, Arkansas	Parking Lot
+$0	
+Apr 21 2017	Walmart - Monroeville
+Monroeville, Alabama	Parking Lot
+$0	
+Apr 16 2017	Florida Caverns State Park
+Marianna, Florida	State Park
+$20	
+Apr 15 2017	Lazydays RV Resort
+Seffner, Florida	Private RV Park
+$49	
+Apr 9 2017	Hillsborough River State Park
+Thonotosassa, Florida	State Park
+$27	
+Apr 8 2017	Cracker Barrel
+Punta Gorda, Florida	Parking Lot
+$0	
+Apr 2 2017	Koreshan State Park
+Estero, Florida	State Park
+$26	
+Apr 1 2017	Flamingo Campground
+Homestead, Florida	National Park
+$30	
+Mar 31 2017	Home Depot
+Florida City, Florida	Parking Lot
+$0	
+Jan 1 2017	House Rental
+Big Pine Key, Florida	House Rental
+$110	
+Dec 18 2016	Bahia Honda State Park
+Big Pine Key, Florida	State Park
+$39	
+Dec 17 2016	Miccosukee Casino
+Miami, Florida	Parking Lot
+$0	
+Dec 11 2016	Dupuis Campground
+Indiantown, Florida	State Forest Campground
+$0	
+Dec 10 2016	Juniper Springs
+Astor, Florida	National Forest
+$21	
+Dec 4 2016	O'leno State Park
+High Springs, Florida	State Park
+$18	
+Dec 3 2016	Walmart - Hazlehurst
+Hazlehurst, Georgia	Parking Lot
+$0	
+Nov 27 2016	Camping World Racing Resort
+Concord, North Carolina	Private RV Park
+$25	
+Nov 17 2016	Private Property
+Hubert, North Carolina	Private Residence
+$0	
+Nov 13 2016	Flanners Beach Campground
+New Bern, North Carolina	National Forest
+$17	
+Nov 6 2016	Westmoreland State Park
+Montross, Virginia	State Park
+$35	
+Oct 30 2016	Lums Pond State Park
+Bear, Delaware	State Park
+$30	
+Oct 27 2016	Northford Driveway
+Northford, Connecticut	Private Residence
+$0	
+Oct 25 2016	Middletown Driveway
+Middletown, Connecticut	Private Residence
+$0	
+Oct 24 2016	Mohegan Sun Casino
+Montville, Connecticut	Parking Lot
+$0	
+Oct 16 2016	Fishermans Memorial Park
+Narragansett, Rhode Island	State Park
+$25	
+Oct 15 2016	Walmart
+Wareham, Massachusetts	Parking Lot
+$0	
+Oct 8 2016	Coastal Acres Campground
+Provincetown, Massachusetts	Private RV Park
+$52	
+Oct 1 2016	Nickerson State Park
+Brewster, Massachusetts	State Park
+$27	
+Sep 30 2016	Walmart
+Wareham, Massachusetts	Parking Lot
+$0	
+Sep 29 2016	Cabelas
+Hudson, Massachusetts	Parking Lot
+$0	
+Aug 12 2016	Cambridge Friends
+Cambridge, Vermont	Private Residence
+$0	
+Aug 5 2016	Steele Hill Resort
+Sanbornton, New Hampshire	Private RV Park
+$0	
+Aug 4 2016	Walmart
+Auburn, Maine	Parking Lot
+$0	
+Jun 29 2016	Narrows Too Camping Resort
+Trenton, Maine	Private RV Park
+$37	
+Jun 28 2016	Walmart
+Skowhegan, Maine	Parking Lot
+$0	
+Jun 27 2016	Voyageurs Provincial Park
+Chute-à-Blondeau, Ontario	State Park
+$38	
+Jun 26 2016	Walmart - Renfrew
+Renfrew, Ontario	Parking Lot
+$0	
+Jun 25 2016	OLG Casino
+Sault Ste. Marie, Ontario	Parking Lot
+$0	
+Jun 24 2016	Lake Superior Provincial Park
+Algoma, Unorganized, North Part, Ontario	State Park
+$32	
+Jun 23 2016	Pukaskwa National Park
+Unorganized Thunder Bay District, Ontario	National Park
+$32	
+Jun 22 2016	Neys Provincial Park
+Marathon, Ontario	State Park
+$28	
+Jun 21 2016	Rainbow Falls Provincial Park
+Rossport, Ontario	State Park
+$32	
+Jun 20 2016	Kakabeka Falls Provincial Park
+Kakabeka Falls, Ontario	State Park
+$32	
+Jun 19 2016	Arnold's Campground
+International Falls, Minnesota	Private RV Park
+$32	
+Jun 17 2016	Grassy Island South
+Ray, Minnesota	National Park
+$25	
+Jun 12 2016	Wooden Frog Campground
+Ray, Minnesota	State Forest Campground
+$14	
+Jun 11 2016	Scenic State Park
+Bigfork, Minnesota	State Park
+$21	
+Jun 10 2016	Deer Lake Campground
+Deer River, Minnesota	National Forest
+$16	
+May 27 2016	Cass Lake Campground
+Cass Lake, Minnesota	National Forest
+$21	
+May 22 2016	Buffalo River State Park
+Glyndon, Minnesota	State Park
+$37	
+May 19 2016	Fort Abraham Lincoln State Park
+Mandan, North Dakota	State Park
+$23	
+May 15 2016	Cottonwood Campground
+Medora, North Dakota	National Park
+$14	
+May 11 2016	Spearfish Campground
+Spearfish, South Dakota	City Park
+$25	
+May 8 2016	Belle Fourche River Campground
+Devils Tower, Wyoming	National Park
+$12	
+May 7 2016	Walmart - Casper
+Casper, Wyoming	Parking Lot
+$0	
+May 6 2016	Walmart - Craig
+Craig, Colorado	Parking Lot
+$0	
+May 1 2016	25 Road
+Grand Junction, Colorado	BLM Boondocking
+$0	
+Apr 29 2016	Horsethief Campground
+Grand County, Utah	BLM Campground
+$15	
+Apr 16 2016	Dalton Well Road
+Moab, Utah	BLM Boondocking
+$0	
+Apr 9 2016	Willow Springs Trail
+Moab, Utah	BLM Boondocking
+$0	
+Apr 3 2016	Thousand Lakes RV Park
+Torrey, Utah	Private RV Park
+$34	
+Mar 26 2016	Spencer Flat Rd
+Garfield County, Utah	BLM Boondocking
+$0	
+Mar 20 2016	North Campground
+Bryce, Utah	National Park
+$30	
+Mar 13 2016	Virgin Boondocking
+La Verkin, Utah	BLM Boondocking
+$0	
+Mar 6 2016	Sand Hollow State Park
+Hurricane, Utah	State Park
+$28	
+Feb 28 2016	Stewarts Point
+Clark County, Nevada	National Park Boondocking
+$0	
+Feb 20 2016	Lake Mead Boondocking
+Boulder City, Nevada	National Park Boondocking
+$0	
+Feb 14 2016	Mojave Bookdocking
+San Bernardino County, California	National Park Boondocking
+$0	
+Feb 13 2016	Tortoise Rock Casino
+Twentynine Palms, California	Parking Lot
+$0	
+Feb 7 2016	Joshua Tree South
+Riverside County, California	BLM Boondocking
+$0	
+Jan 31 2016	Kofa Wilderness
+Quartzsite, Arizona	BLM Boondocking
+$0	
+Jan 29 2016	Casino Arizona
+Scottsdale, Arizona	Parking Lot
+$0	
+Jan 10 2016	Kofa Wilderness
+Quartzsite, Arizona	BLM Boondocking
+$0	
+Jan 3 2016	American Girl Mine Rd
+Winterhaven, California	BLM Boondocking
+$0	
+Dec 26 2015	Anza Borrego Boondocking
+Borrego Springs, California	State Park Boondocking
+$0	
+Dec 19 2015	Gilbert Ray Campground
+Tucson, Arizona	County Park
+$20	
+Dec 12 2015	SKP Saguaro Co-Op
+Benson, Arizona	Private RV Park
+$8	
+Dec 11 2015	Camping World
+Anthony, Texas	Parking Lot
+$0	
+Dec 10 2015	Caverns of Sonora
+Sonora, Texas	Private RV Park
+$20	
+Dec 9 2015	Wallmart - Kerrville
+Kerrville, Texas	Parking Lot
+$0	
+Dec 7 2015	Yegua Creek Park
+Brenham, Texas	Army Corps of Engineers
+$25	
+Dec 2 2015	Martin Dies Jr State Park
+Jasper, Texas	State Park
+$24	
+Nov 29 2015	Indian Creek
+Woodworth, Louisiana	State Park
+$18	
+Nov 28 2015	Jeff Busby Campground
+Ackerman, Mississippi	National Park
+$0	
+Nov 25 2015	Grand Ole RV Resort
+Goodlettsville, Tennessee	Private RV Park
+$35	
+Nov 21 2015	Edgar Evins State Park
+Silver Point, Tennessee	State Park
+$23	
+Nov 15 2015	Rock Island State Park
+Rock Island, Tennessee	State Park
+$23	
+Nov 11 2015	Fall Creek Falls State Park
+Pikeville, Tennessee	State Park
+$20	
+Nov 8 2015	Douglas Dam Headwater Campground
+Sevierville, Tennessee	Tennessee Valley Authority
+$25	
+Nov 7 2015	Smokemont Campground
+Cherokee, North Carolina	National Park
+$17	
+Nov 3 2015	Elmore RV Park
+Charlotte, North Carolina	Private RV Park
+$32	
+Oct 31 2015	Bear Creek RV & Campground
+Asheville, North Carolina	Private RV Park
+$40	
+Oct 28 2015	Standing Stone State Park
+Overton County, Tennessee	State Park
+$20	
+Oct 25 2015	Pulaski County Park
+Nancy, Kentucky	County Park
+$19	
+Oct 24 2015	Mammoth Cave Campground
+Mammoth Cave, Kentucky	National Park
+$20	
+Oct 15 2015	Kentucky Horse Park
+Lexington, Kentucky	State Park
+$20	
+Oct 10 2015	Twin Knobs Campground
+Clearfield, Kentucky	National Forest
+$29	
+Oct 9 2015	Walmart Morehead
+Morehead, Kentucky	Parking Lot
+$0	
+Oct 3 2015	Battle Run Campground
+Summersville, West Virginia	Army Corps of Engineers
+$30	
+Oct 1 2015	Bald Eagle State Park
+Howard, Pennsylvania	State Park
+$27	
+Sep 30 2015	Walmart
+Mill Hall, Pennsylvania	Parking Lot
+$0	
+Sep 27 2015	Glimmerglass State Park
+Cooperstown, New York	State Park
+$17	
+Sep 26 2015	Moreau State Park
+Gansevoort, New York	State Park
+$26	
+Sep 17 2015	Driveway - Jeffersonville
+Cambridge, Vermont	Private Residence
+$0	
+Sep 7 2015	Driveway - Cambridge
+Cambridge, Vermont	Private Residence
+$0	
+Aug 30 2015	Driveway - Shelburne
+Shelburne, Vermont	Private Residence
+$0	
+Aug 29 2015	Driveway - Jeffersonville
+Cambridge, Vermont	Private Residence
+$0	
+Aug 22 2015	Moose Brook State Park
+Gorham, New Hampshire	State Park
+$25	
+Aug 15 2015	Pine Hollow Campground
+Laconia, New Hampshire	Private RV Park
+$35	
+Aug 14 2015	Cabela's Retail Store
+Scarborough, Maine	Parking Lot
+$0	
+Aug 9 2015	Winslow City Park
+Freeport, Maine	City Park
+$35	
+Aug 8 2015	Falmouth Walmart
+Falmouth, Maine	Parking Lot
+$0	
+Aug 1 2015	Salty Acres Campground
+Kennebunkport, Maine	Private RV Park
+$44	
+Jul 19 2015	Narrows Too
+Trenton, Maine	Private RV Park
+$50	
+Jul 12 2015	Camden Hills State Park
+Camden, Maine	State Park
+$25	
+Jul 5 2015	Winslow City Park
+Freeport, Maine	City Park
+$35	
+Jun 28 2015	Cape Ann Camp Site
+Gloucester, Massachusetts	Private RV Park
+$32	
+Jun 14 2015	Killingworth back yard
+Killingworth, Connecticut	Private Residence
+$0	
+Jun 4 2015	Lums Pond State Park
+Bear, Delaware	State Park
+$27	
+Jun 2 2015	Tuckahoe State Park
+Ridgely, Maryland	State Park
+$33	
+May 25 2015	Greenbelt Park
+Greenbelt, Maryland	National Park
+$16	
+May 21 2015	DelFest (Bluegrass Festival)
+Cumberland, Maryland	County Park
+$31	
+May 17 2015	Rocky Gap State Park
+Cumberland, Maryland	State Park
+$23	
+May 10 2015	Virgnia Highland Haven Airstream Park
+Copper Hill, Virginia	Private RV Park
+$27	
+May 3 2015	First Landing State Park
+Virginia Beach, Virginia	State Park
+$38	
+Apr 26 2015	Ocean Waves Campground
+Nags Head, North Carolina	Private RV Park
+$37	
+Apr 25 2015	Cape Hatteras National Seashore
+Frisco, North Carolina	National Park
+$20	
+Apr 19 2015	Private Property
+Hubert, North Carolina	Private Residence
+$0	
+Apr 12 2015	McDowell Nature Preserve
+Charlotte, North Carolina	County Park
+$33	
+Apr 3 2015	Private Property
+Hubert, North Carolina	Private Residence
+$0	
+Mar 29 2015	Private Property
+McClellanville, South Carolina	Private Residence
+$0	
+Mar 28 2015	Charleston SC Visitors Center
+Charleston, South Carolina	Parking Lot
+$16	
+Mar 22 2015	Skidaway Island State Park
+Savannah, Georgia	State Park
+$39	
+Mar 21 2015	Savannah GA Visitors Center
+Savannah, Georgia	Parking Lot
+$14	
+Mar 15 2015	Blythe Island Regional Park
+Brunswick, Georgia	County Park
+$32	
+Mar 14 2015	St Marys Walmart
+Kingsland, Georgia	Parking Lot
+$0	
+Mar 7 2015	Anastasia State Park
+Saint Augustine, Florida	State Park
+$28	
+Feb 28 2015	Bill Frederick Park
+Orlando, Florida	County Park
+$19	
+Feb 22 2015	John Prince Park
+Lake Worth, Florida	County Park
+$31	
+Feb 15 2015	Driveway - Big Pine Key
+Big Pine Key, Florida	Private Residence
+$0	
+Feb 8 2015	Long Key State Park
+Layton, Florida	State Park
+$38	
+Feb 6 2015	Driveway - Big Pine Key
+Big Pine Key, Florida	Private Residence
+$0	
+Jan 25 2015	Bahia Honda State Park
+Big Pine Key, Florida	State Park
+$38	
+Jan 18 2015	Driveway - Big Pine Key
+Big Pine Key, Florida	Private Residence
+$0	
+Jan 11 2015	Long Key State Park
+Layton, Florida	State Park
+$38	
+Dec 28 2014	Driveway - Big Pine Key
+Big Pine Key, Florida	Private Residence
+$0	
+Dec 27 2014	Miccosukee Resort
+Miami, Florida	Parking Lot
+$0	
+Dec 24 2014	Driveway - Lake Placid
+Lake Placid, Florida	Private Residence
+$0	
+Dec 14 2014	Highlands Hammock State Park
+Sebring, Florida	State Park
+$24	
+Dec 13 2014	St George Island State Park
+Franklin County, Florida	State Park
+$24	
+Nov 30 2014	Saint Andrews State Park
+Panama City, Florida	State Park
+$28	
+Nov 23 2014	Grayton Beach State Park
+Santa Rosa Beach, Florida	State Park
+$25	
+Nov 16 2014	Gulf State Park
+Orange Beach, Alabama	State Park
+$29	
+Nov 9 2014	Bayou Segnette State Park
+Westwego, Louisiana	State Park
+$20	
+Nov 3 2014	Palmetto Island State Park
+Abbeville, Louisiana	State Park
+$18	
+Nov 2 2014	Baytown Walmart
+Baytown, Texas	Parking Lot
+$0	
+Oct 25 2014	Houston Airport Parking
+Houston, Texas	Parking Lot
+$6	
+Oct 24 2014	Houston Walmart
+Humble, Texas	Parking Lot
+$0	
+Oct 19 2014	McKinney Falls State Park
+Austin, Texas	State Park
+$27	
+Oct 12 2014	Austin Lone Start RV Resort
+Austin, Texas	Private RV Park
+$36	
+Oct 11 2014	Walmart San Angelo
+San Angelo, Texas	Parking Lot
+$0	
+Oct 7 2014	Bottomless Lake State Park
+Roswell, New Mexico	State Park
+$14	
+Oct 3 2014	Albuquerque Balloon Fiesta
+Albuquerque, New Mexico	Parking Lot
+$70	
+Oct 2 2014	Route 66 Casino
+Albuquerque, New Mexico	Parking Lot
+$0	
+Sep 28 2014	Santa Fe Skies
+Santa Fe, New Mexico	Private RV Park
+$40	
+Sep 21 2014	Los Alamos Boondocking
+Los Alamos, New Mexico	National Forest Boondocking
+$0	
+Sep 14 2014	Pinyon Flats Campground
+Mosca, Colorado	National Park
+$20	
+Sep 8 2014	Pikes Peak RV Park
+Manitou Springs, Colorado	Private RV Park
+$34	
+Sep 7 2014	Salida Boondocking
+Salida, Colorado	BLM Boondocking
+$0	
+Sep 1 2014	Telluride Town Park
+Telluride, Colorado	City Park
+$30	
+Aug 31 2014	Lizard Head Pass
+Ophir, Colorado	National Forest Boondocking
+$0	
+Aug 24 2014	James Robb State Park
+Fruita, Colorado	State Park
+$27	
+Aug 23 2014	Green River Campground
+Jensen, Utah	National Park
+$12	
+Aug 22 2014	Steamboat Springs 
+Steamboat Springs, Colorado	Parking Lot
+$0	
+Aug 17 2014	Rabbit Pass Boondocking
+Steamboat Springs, Colorado	National Forest Boondocking
+$0	
+Aug 10 2014	Bear Creek Lake Park
+Lakewood, Colorado	County Park
+$20	
+Aug 3 2014	Peak One Campground
+Breckenridge, Colorado	National Forest
+$18	
+Jul 27 2014	Leadville Boondocking
+Leadville, Colorado	National Forest Boondocking
+$0	
+Jul 13 2014	Crested Butte Boondocking
+Crested Butte, Colorado	National Forest Boondocking
+$0	
+Jul 6 2014	Silverton Lakes Campground
+Silverton, Colorado	Private RV Park
+$25	
+Jun 28 2014	Westerly RV Park
+Durango, Colorado	Private RV Park
+$40	
+Jun 14 2014	Forest Service Rd 316
+Hesperus, Colorado	National Forest Boondocking
+$0	
+Jun 8 2014	Heron Lake State Park
+Los Ojos, New Mexico	State Park
+$10	
+Jun 6 2014	Street Parking, Red River, NM
+Red River, New Mexico	Parking Lot
+$0	
+Jun 1 2014	Taos Valley RV Park
+Taos, New Mexico	Private RV Park
+$33	
+May 31 2014	Juniper Campground
+Los Alamos, New Mexico	National Park
+$12	
+May 26 2014	Cochiti Lake Recreation Area
+Sandoval County, New Mexico	Army Corps of Engineers
+$6	
+May 18 2014	Santa Fe Skies RV Park
+Santa Fe, New Mexico	Private RV Park
+$32	
+May 17 2014	Valley of Fires Recreation Area
+Carrizozo, New Mexico	BLM Campground
+$12	
+May 11 2014	Bottomless Lakes State Park
+Roswell, New Mexico	State Park
+$14	
+May 9 2014	Brantley Lake State Park
+Artesia, New Mexico	State Park
+$8	
+May 3 2014	Cloudcroft Boondocking
+Cloudcroft, New Mexico	National Forest Boondocking
+$0	
+Apr 27 2014	Oliver Lee Memorial State Park
+Alamogordo, New Mexico	State Park
+$10	
+Apr 19 2014	Enchanted Trails RV Park
+Albuquerque, New Mexico	Private RV Park
+$30	
+Apr 13 2014	Elephant Butte State Park
+Truth or Consequences, New Mexico	State Park
+$14	
+Apr 6 2014	Caballo Lake State Park
+Caballo, New Mexico	State Park
+$8	
+Mar 30 2014	Leasburg Dam State Park
+Las Cruces, New Mexico	State Park
+$10	
+Mar 29 2014	Walmart Las Cruces
+Las Cruces, New Mexico	Parking Lot
+$0	
+Mar 23 2014	Rock Hound State Park
+Deming, New Mexico	State Park
+$14	
+Mar 16 2014	City of Rocks State Park
+Faywood, New Mexico	State Park
+$10	
+Mar 15 2014	Walmart Deming
+Deming, New Mexico	Parking Lot
+$0	
+Mar 9 2014	Indian Bread Rocks
+Bowie, Arizona	BLM Boondocking
+$0	
+Mar 2 2014	Queen Mine RV Park
+Bisbee, Arizona	Private RV Park
+$25	
+Feb 23 2014	Las Cienegas Boondocking
+Elgin, Arizona	BLM Boondocking
+$0	
+Feb 17 2014	Gilbert Ray Campground
+Tucson, Arizona	County Park
+$20	
+Feb 8 2014	McDowell Mountain Regional Park
+Scottsdale, Arizona	County Park
+$25	
+Jan 26 2014	Usery Mountain Regional Park
+Mesa, Arizona	County Park
+$25	
+Jan 18 2014	Quartzsite Boondocking
+Quartzsite, Arizona	BLM Boondocking
+$0	
+Dec 29 2013	Anza Borrego Boondocking
+Borrego Springs, California	State Park Boondocking
+$0	
+Dec 1 2013	Mission Bay RV Resort
+San Diego, California	Private RV Park
+$28	
+Nov 9 2013	Lake Mead Boondocking
+Boulder City, Nevada	National Park Boondocking
+$0	
+Nov 3 2013	Tuttle Creek Campground
+Inyo County, California	BLM Campground
+$5	
+Oct 31 2013	Alabama Hill Boondocking
+Inyo County, California	BLM Boondocking
+$0	
+Oct 26 2013	Tuttle Creek Campground
+Inyo County, California	BLM Campground
+$5	
+Oct 13 2013	Bishop Boondocking
+Bishop, California	BLM Boondocking
+$0	
+Oct 10 2013	Mammoth Boondocking
+Mammoth Lakes, California	National Forest Boondocking
+$0	
+Oct 6 2013	June Lake Boondocking
+Mono County, California	National Park Boondocking
+$0	
+Oct 4 2013	Washoe Lake State Park
+New Washoe City, Nevada	State Park
+$17	
+Sep 29 2013	Eagle Lake
+Susanville, California	BLM Boondocking
+$0	
+Sep 27 2013	Diamond Lake Campground
+Crescent, Oregon	National Forest
+$22	
+Sep 15 2013	Bend Boondocking
+Bend, Oregon	National Forest Boondocking
+$0	
+Sep 14 2013	Bend Boondocking
+Bend, Oregon	National Forest Boondocking
+$0	
+Sep 7 2013	Memaloose State Park
+Mosier, Oregon	State Park
+$19	
+Sep 6 2013	Cabela's Retail Store
+Post Falls, Idaho	Parking Lot
+$0	
+Sep 3 2013	Apgar Campground
+West Glacier, Montana	National Park
+$20	
+Sep 1 2013	Fish Creek Campground
+West Glacier, Montana	National Park
+$23	
+Aug 29 2013	Tunnel mountain Campground
+Improvement District No. 9, Alberta	National Park
+$34	
+Aug 27 2013	Illecillewaet Campground
+Columbia-Shuswap A, British Columbia	National Park
+$17	
+Aug 25 2013	West Bay Beach Resort
+West Kelowna, British Columbia	Private RV Park
+$57	
+Aug 17 2013	Private Property
+Tonasket, Washington	Private Residence
+$0	
+Aug 16 2013	13 Mile Campground
+Republic, Washington	National Forest
+$0	
+Aug 11 2013	Private Property
+Tonasket, Washington	Private Residence
+$0	
+Aug 10 2013	Northern Quest Resort & Casino
+Spokane, Washington	Parking Lot
+$0	
+Aug 4 2013	Jim & Mary's RV Park
+Missoula, Montana	Private RV Park
+$34	
+Aug 3 2013	Walmart
+Bozeman, Montana	Parking Lot
+$0	
+Aug 2 2013	Walmart Supercenter
+Sheridan, Wyoming	Parking Lot
+$0	
+Jul 28 2013	Roost Resort
+Custer, South Dakota	Private RV Park
+$30	
+Jul 27 2013	Scottsbluff Walmart
+Scottsbluff, Nebraska	Parking Lot
+$0	
+Jul 20 2013	Boyd Lake State Park
+Loveland, Colorado	State Park
+$18	
+Jul 13 2013	Stillwater Campground
+Granby, Colorado	National Forest
+$22	
+Jul 7 2013	Peak One Campground
+Breckenridge, Colorado	National Forest
+$18	
+Jul 5 2013	Leadville Boondocking
+Leadville, Colorado	National Forest Boondocking
+$0	
+Jun 30 2013	Silver Dollar Campground
+Leadville, Colorado	National Forest
+$18	
+Jun 23 2013	Salida Boondocking
+Salida, Colorado	BLM Boondocking
+$0	
+Jun 14 2013	Crested Butte Boondocking
+Crested Butte, Colorado	National Forest Boondocking
+$0	
+Jun 9 2013	Rosy Lane Campground
+Gunnison County, Colorado	National Forest
+$18	
+Jun 8 2013	Curecanti National Recreation Area
+Gunnison, Colorado	National Forest
+$12	
+Jun 1 2013	Cedar Creek RV Park
+Montrose, Colorado	Private RV Park
+$34	
+May 27 2013	Four J RV
+Ridgway, Colorado	Private RV Park
+$32	
+May 25 2013	Haviland Lake Campground
+Durango, Colorado	National Forest
+$19	
+May 10 2013	Forest Service Rd 316
+Hesperus, Colorado	National Forest Boondocking
+$0	
+May 8 2013	La Mesa RV Park
+Cortez, Colorado	Private RV Park
+$20	
+May 6 2013	Gooseneck State Park
+San Juan County, Utah	State Park Boondocking
+$0	
+May 3 2013	BLM Boondocking
+San Juan County, Utah	BLM Boondocking
+$0	
+Apr 30 2013	Devil's Canyon Campground
+Monticello, Utah	National Forest
+$10	
+Apr 22 2013	Sand Flats Recreation Area
+Moab, Utah	BLM Campground
+$10	
+Apr 8 2013	Goose Island Campground
+Moab, Utah	BLM Campground
+$15	
+Apr 7 2013	Walmart Supercenter
+Richfield, Utah	Parking Lot
+$0	
+Mar 27 2013	South Campground, Zion NP
+Hurricane, Utah	National Park
+$12	
+Mar 26 2013	Zion River Resort
+Virgin, Utah	Private RV Park
+$47	
+Mar 25 2013	Walmart Supercenter
+Page, Arizona	Parking Lot
+$0	
+Mar 22 2013	Lone Rock Beach
+Kane County, Utah	National Park
+$10	
+Mar 11 2013	Sedona Boondocking
+Sedona, Arizona	National Forest Boondocking
+$0	
+Mar 8 2013	Usery Mountain Regional Park
+Mesa, Arizona	County Park
+$25	
+Feb 24 2013	Lost Dutchman State Park
+Apache Junction, Arizona	State Park
+$15	
+Feb 11 2013	Catalina State Park
+Tucson, Arizona	State Park
+$15	
+Feb 4 2013	Gilbert Ray Campground
+Tucson, Arizona	County Park
+$20	
+Jan 27 2013	Darby Well Rd
+Ajo, Arizona	BLM Boondocking
+$0	
+Jan 18 2013	American Girl Mine Rd
+Winterhaven, California	BLM Boondocking
+$0	
+Dec 28 2012	Anza-Borrego
+Borrego Springs, California	State Park Boondocking
+$0	
+Dec 19 2012	Mission Bay RV Resort
+San Diego, California	Private RV Park
+$40	
+Dec 16 2012	O'Neill Regional Park
+Trabuco Canyon, California	County Park
+$20	
+Dec 7 2012	Sam's Family Spa Hot Water Resort
+Desert Hot Springs, California	Private RV Park
+$38	
+Dec 3 2012	Mojave NP
+San Bernardino County, California	National Park Boondocking
+$0	
+Dec 1 2012	Mojave NP
+San Bernardino County, California	National Park Boondocking
+$0	
+Nov 23 2012	Govt Wash Rd
+Boulder City, Nevada	BLM Boondocking
+$0	
+Nov 21 2012	Paris Las Vegas Resort
+Las Vegas, Nevada	Parking Lot
+$0	
+Nov 20 2012	Afton Canyon
+Baker, California	BLM Campground
+$0	
+Nov 19 2012	Brite Valley Aquatic Recreation Area
+Tehachapi, California	City Park
+$20	
+Nov 17 2012	El Chorro Regional Park
+San Luis Obispo, California	County Park
+$23	
+Nov 15 2012	Laguna Seca Raceway
+Monterey, California	County Park
+$25	
+Nov 14 2012	New Brighton Beach State Park
+Capitola, California	State Park
+$35	
+Nov 12 2012	Half Moon Bay State Beach
+Half Moon Bay, California	State Park
+$35	
+Nov 7 2012	Sonoma County Fairgrounds
+Santa Rosa, California	County Park
+$23	
+Nov 5 2012	Westside Regional Park
+Bodega Bay, California	County Park
+$30	
+Nov 4 2012	Van Damme State Park
+Little River, California	State Park
+$35	
+Nov 3 2012	Humboldt Redwoods State Park
+Miranda, California	State Park
+$35	
+Nov 2 2012	Clam Beach State Campground
+McKinleyville, California	State Park
+$15	
+Oct 31 2012	Florence Keller Regional Park
+Crescent City, California	County Park
+$10	
+Oct 27 2012	Harris Beach State Park
+Brookings, Oregon	State Park
+$21	
+Oct 24 2012	Humbug Mountain State Park
+Port Orford, Oregon	State Park
+$16	
+Oct 22 2012	Cape Blanco State Park
+Sixes, Oregon	State Park
+$16	
+Oct 19 2012	Bullards Beach State Park
+Bandon, Oregon	State Park
+$20	
+Oct 17 2012	Winchester Bay RV Resort
+Winchester Bay, Oregon	Private RV Park
+$27	
+Oct 16 2012	Bastendorff Beach 
+Coos Bay, Oregon	BLM Boondocking
+$0	
+Oct 14 2012	Bastendorff Beach Park
+Coos Bay, Oregon	County Park
+$22	
+Oct 11 2012	Armitage County Park
+Eugene, Oregon	County Park
+$30	
+Oct 9 2012	Valley River Center
+Eugene, Oregon	Parking Lot
+$0	
+Oct 4 2012	South Beach State Park
+Newport, Oregon	State Park
+$22	
+Oct 1 2012	Beverly Beach State Park
+Newport, Oregon	State Park
+$22	
+Sep 28 2012	Cape Lookout State Park
+Tillamook, Oregon	State Park
+$24	
+Sep 26 2012	Columbia River RV Park
+Portland, Oregon	Private RV Park
+$30	
+Sep 25 2012	Henry Rierson Spruce Run Campground
+Seaside, Oregon	State Forest Campground
+$10	
+Sep 22 2012	Fort Stevens State Park
+Hammond, Oregon	State Park
+$27	
+Sep 19 2012	Quinault Marina & RV Park
+Ocean Shores, Washington	Private RV Park
+$30	
+Sep 16 2012	Mora, Olympic National Park
+Forks, Washington	National Park
+$12	
+Sep 13 2012	Heart O Hills, Olympic National Park
+Port Angeles, Washington	National Park
+$12	
+Sep 12 2012	Fort Worden State Park
+Port Townsend, Washington	State Park
+$36	
+Sep 9 2012	Deception Pass State Park
+Oak Harbor, Washington	State Park
+$29	
+Sep 6 2012	Newhalem Campground, Northern Cascades NP
+Marblemount, Washington	National Park
+$12	
+Sep 5 2012	Bridgeport State Park
+Bridgeport, Washington	State Park
+$22	
+Sep 4 2012	Northern Quest Resort & Casino
+Spokane, Washington	Parking Lot
+$0	
+Sep 1 2012	Schweitzer Mountain Resort
+Sandpoint, Idaho	Parking Lot
+$0	
+Aug 31 2012	Firemans Park Campground
+Libby, Montana	City Park
+$5	
+Aug 29 2012	Apgar Campground, Glacier National Park
+West Glacier, Montana	National Park
+$20	
+Aug 26 2012	Avalanche Campground, Glacier National Park
+West Glacier, Montana	National Park
+$20	
+Aug 24 2012	Big Arm State Park
+Big Arm, Montana	State Park
+$28	
+Aug 23 2012	Walmart Supercenter
+Missoula, Montana	Parking Lot
+$0	
+Aug 21 2012	Stuart Mill Bay Campground
+Anaconda, Montana	Montana Fish & Wildlife
+$12	
+Aug 20 2012	Lewis and Clark Cavern State Park
+Whitehall, Montana	State Park
+$23	
+Aug 15 2012	Rock Canyon RV Park
+Livingston, Montana	Private RV Park
+$37	
+Aug 14 2012	Indian Creak
+Yellowstone National Park, Wyoming	National Park
+$15	
+Aug 12 2012	Grassy Lake Rd
+Moran, Wyoming	National Forest
+$0	
+Aug 9 2012	Signal Mountain Campground
+Alta, Wyoming	National Park
+$21	
+Aug 7 2012	Turpin Meadow Campground
+Moran, Wyoming	National Forest
+$10	
+Aug 5 2012	Longhorn RV & Motel
+Dubois, Wyoming	Private RV Park
+$50	
+Aug 4 2012	Riverside Park
+Douglas, Wyoming	City Park
+$0	
+Aug 3 2012	Bismark Lake Campground
+Custer, South Dakota	National Forest
+$24	
+Aug 1 2012	Badlands National Park
+Interior, South Dakota	National Park
+$26	
+Jul 31 2012	Arlington City Park
+Arlington, South Dakota	City Park
+$5	
+Jul 27 2012	Lebanon Hills Park Campground
+Saint Paul, Minnesota	County Park
+$25	
+Jul 24 2012	Sandy Lake and Dam
+McGregor, Minnesota	Army Corps of Engineers
+$26	
+Jul 22 2012	Temperance River State Park
+Schroeder, Minnesota	State Park
+$22	
+Jul 20 2012	Gooseberry Falls State Park
+Two Harbors, Minnesota	State Park
+$22	
+Jul 17 2012	Indian Point Campground
+Duluth, Minnesota	Private RV Park
+$33	
+Jul 15 2012	Memorial Park
+Washburn, Wisconsin	City Park
+$22	
+Jul 13 2012	Little Bay Campground
+Rapid River, Michigan	National Forest
+$12	
+Jul 10 2012	Brevoort Lake Campground
+Moran, Michigan	National Forest
+$18	
+Jul 8 2012	D H Day Campground
+Empire, Michigan	National Park
+$12	
+Jul 5 2012	Claybanks Township Park
+New Era, Michigan	County Park
+$20	
+Jul 3 2012	A Driveway
+Mount Clemens, Michigan	Private Residence
+$0	
+Jul 2 2012	Cabelas
+Dundee, Michigan	Parking Lot
+$0	
+Jun 29 2012	Mosquito Lake State Park
+Cortland, Ohio	State Park
+$26	
+Jun 27 2012	Penn Wood Airstream Park
+New Bethlehem, Pennsylvania	Private RV Park
+$20	
+Jun 24 2012	Buckaloons Recreation Area
+Irvine, Pennsylvania	National Forest
+$23	
+Jun 22 2012	Sampson State Park
+Romulus, New York	State Park
+$30	
+Jun 18 2012	Keuka Lake
+Keuka Park, New York	State Park
+$26	
+Jun 16 2012	Long Point State Park
+Three Mile Bay, New York	State Park
+$30	
+Jun 15 2012	Chapin Rd
+Essex, Vermont	Private Residence
+$0	
+Jun 14 2012	82 Smugglers View Rd
+Jeffersonville, Vermont	Private Residence
+$0	
+Jun 14 2012	Lang Farm Nursery
+Essex, Vermont	Private Residence
+$0	

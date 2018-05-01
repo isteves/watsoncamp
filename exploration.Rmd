@@ -1,0 +1,156 @@
+---
+title: "The wandering Watsons"
+author: "Irene Steves"
+date: "April 30, 2018"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+I love long camping adventures, but I also love camping vicariously through couples like the [Watsons](http://www.watsonswander.com/), who make adventure their life. The Watsons are particularly cool because they've used their talents to make an [awesome website](http://www.watsonswander.com/) with beautiful [maps](http://www.watsonswander.com/where/) of their journey over the years, as well as data about it.
+
+I was curious about how much this kind of lifestyle costs, so I did some quick plotting. But first, I needed get the data into R. 
+
+## Reading in the data
+
+While it's possible to grab data directly from the web, I decided to go the copy and paste approach. I copied the [table of camping locations and prices](http://www.watsonswander.com/where/) from their website and saved it into a text file. Then, I read it in and cleaned it.
+
+```{r}
+library(tidyverse)
+library(lubridate)
+library(plotly)
+
+data_raw <- readLines("data.txt")
+
+date_seq <- tibble(arrived = ymd("2012-06-14") + 1:2142)
+
+data <- tibble(text = data_raw[-1]) %>% 
+    mutate(lines = ceiling(1:n()/3)) %>% 
+    group_by(lines) %>% 
+    summarize(text = str_c(text, collapse = "\t")) %>% 
+    separate(text, 
+             into = c("arrived", "campground", "city", "type", "price", "extra"), 
+             sep = "\t") %>% 
+    select(-lines, -extra) %>% 
+    mutate(arrived = mdy(arrived),
+           price = str_extract(price, "[0-9]+") %>% as.numeric()) %>% 
+    right_join(date_seq) %>% 
+    fill(-arrived)
+
+print(data)
+```
+
+## Plotting
+
+With the data in R, I could do some plotting! I started with the cumulative cost of the trip - how much the Watsons have spent so far on accomodation alone.
+
+```{r}
+plot_cumcost <- data %>% 
+    mutate(cum_cost = cumsum(price)) %>% 
+    ggplot(aes(x = arrived, y = cum_cost)) +
+    geom_point() +
+    xlab("Date") + ylab("Cumulative cost ($)")
+
+ggplotly(plot_cumcost)
+```
+
+Most of us think of housing costs in terms of the cost per month, so let's redo the graph a little:
+
+```{r}
+data_monthly <- data %>% 
+    mutate(month = month(arrived),
+           year = year(arrived),
+           date = ymd(paste(year, month, 1, sep = "-"))) %>% 
+    group_by(date, month) %>% 
+    summarize(month_price = sum(price))
+
+plot_monthly <- data_monthly %>% 
+    ggplot(aes(x = date, y = month_price, text = month)) +
+    geom_line() +
+    geom_point()
+
+ggplotly(plot_monthly)
+```
+
+Now we see that early 2017 was an expensive time for the Watsons, but otherwise, they were generally keeping their accomodation costs to less than $1000/month!  Not bad!
+
+```{r}
+#remove the first and last month since they might be incomplete
+data_monthly_clean <- data_monthly[-c(1, nrow(data_monthly)),]
+
+mean(data_monthly_clean$month_price)
+```
+
+In fact, the mean cost is about $600.
+
+Now let's look at the types of accomodation, and how they broke down in terms of price. I started off using a boxplot, but I added on `geom_jitter` because it gave me a better sense of the distribution.
+
+```{r}
+data %>% 
+    mutate(type = reorder(type, price)) %>%
+    ggplot(aes(x = type, y = price)) +
+    geom_boxplot(fill = "palegreen") +
+    geom_jitter() +
+    coord_flip()
+```
+
+Some of these categories seem to be more detailed than necessary, so let's group some together. "Boondocking" by definition denotes $0, but maybe we can gain some insight if we group these categories into federal, state, private, and miscellaneous government land.
+
+```{r}
+data_refact <- data %>% 
+    mutate(type = fct_collapse(type,
+                               Federal = c("Army Corps of Engineers",
+                                           "BLM Boondocking",
+                                           "BLM Campground",
+                                           "National Forest",
+                                           "National Forest Boondocking",
+                                           "National Park",
+                                           "National Park Boondocking",
+                                           "Tennessee Valley Authority"),
+                               State = c("Montana Fish & Wildlife",
+                                         "State Forest Campground",
+                                         "State Park",
+                                         "State Park Boondocking"),
+                               Private = c("Parking Lot",
+                                           "Private Residence",
+                                           "Private RV Park",
+                                           "House Rental"),
+                               OtherGov = c("City Park",
+                                            "County Park"))) 
+
+data_refact %>% 
+    mutate(type = reorder(type, price)) %>%
+    ggplot(aes(x = type, y = price)) +
+    geom_boxplot(fill = "palegreen") +
+    geom_jitter() +
+    coord_flip() 
+```
+
+Here we can kind of see that federal parks are cheaper (or at least have more boondocking options) than state parks. The private category now spans the cheapest and most expensive extremes because it includes both parking lots and house rentals. 
+
+Perhaps what we really need is a comparison across states. A state like California, for example, can be very expensive (at least on the coast), especially compared to a state with a lot of federal land, like Nevada. To keep things simple, I filtered out the wild variation found in the private and other government categories, keeping just `State` and `Federal`. I then plotted as before, but this time by state:
+
+```{r}
+plot_states <- data_refact %>% 
+    filter(type %in% c("State", "Federal")) %>% 
+    separate(city, c("city", "state"), sep = ", ", extra = "merge") %>% 
+    filter(!str_detect(state, "Ontario|British")) %>% #filter out Canada
+    mutate(state = reorder(state, price)) %>% 
+    ggplot(aes(x = state, y = price, color = type)) +
+    geom_jitter() +
+    coord_flip()
+
+ggplotly(plot_states)
+```
+
+California's looking pretty crazy! It has both a lot of expensive camping options (I can definitely attest to this) and really cheap (free) options. 
+
+Otherwise, the West (as expected) is generally pretty cheap camping, mostly thanks to amazing federal land and its boondocking splendor. 
+
+## Conclusion
+That's all the exploration I've got time for now. Feel free to file an issue/pull request if you have ideas of what else to look into!
