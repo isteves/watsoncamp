@@ -92,13 +92,15 @@ In fact, the mean cost is about $600.
 Now let's look at the types of accomodation, and how they broke down in terms of price. I started off using a boxplot, but I added on `geom_jitter` because it gave me a better sense of the distribution. Here, I've also plotted each campground just once.
 
 ```{r}
-data %>% 
+plot_types <- data %>% 
     distinct(campground, .keep_all = TRUE) %>% 
     mutate(type = reorder(type, price)) %>%
-    ggplot(aes(x = type, y = price)) +
+    ggplot(aes(x = type, y = price, text = campground)) +
     geom_boxplot(fill = "palegreen") +
-    geom_jitter() +
-    coord_flip()
+    geom_jitter(width = .3) +
+    coord_flip() 
+
+ggplotly(plot_types, tooltip = "text")
 ```
 
 Some of these categories seem to be more detailed than necessary, so let's group some together. "Boondocking" by definition denotes $0, but maybe we can gain some insight if we group these categories into federal, state, private, and miscellaneous government land.
@@ -126,15 +128,17 @@ data_refact <- data %>%
                                OtherGov = c("City Park",
                                             "County Park"))) 
 
-data_refact %>% 
+plot_refact <- data_refact %>% 
     mutate(type = reorder(type, price)) %>%
-    ggplot(aes(x = type, y = price)) +
-    geom_boxplot(fill = "palegreen") +
-    geom_jitter() +
-    coord_flip() 
+    ggplot(aes(x = type, y = price, text = campground, color = type)) +
+    geom_jitter(width = .3) +
+    coord_flip()
+
+ggplotly(plot_refact, tooltip = "text") %>% 
+    hide_legend()
 ```
 
-Here we can kind of see that federal parks are cheaper (or at least have more boondocking options) than state parks. The private category now spans the cheapest and most expensive extremes because it includes both parking lots and house rentals. 
+Here we can kind of see that federal and state parks are similar in price, but federal land has more boondocking options. The private category now spans the cheapest and most expensive extremes because it includes both parking lots (at Walmarts and casinos, for the most part) and house rentals. 
 
 Perhaps what we really need is a comparison across states. A state like California, for example, can be very expensive (at least on the coast), especially compared to a state with a lot of federal land, like Nevada. To keep things simple, I filtered out the wild variation found in the private and other government categories, keeping just `State` and `Federal`. I then plotted as before, but this time by state:
 
