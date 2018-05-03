@@ -39,6 +39,7 @@ data <- tibble(text = data_raw[-1]) %>%
     select(-lines, -extra) %>% 
     mutate(arrived = mdy(arrived),
            price = str_extract(price, "[0-9]+") %>% as.numeric()) %>% 
+    separate(city, c("city", "state"), sep = ", ", extra = "merge") %>% 
     right_join(date_seq) %>% 
     fill(-arrived)
 
@@ -88,10 +89,11 @@ mean(data_monthly_clean$month_price)
 
 In fact, the mean cost is about $600.
 
-Now let's look at the types of accomodation, and how they broke down in terms of price. I started off using a boxplot, but I added on `geom_jitter` because it gave me a better sense of the distribution.
+Now let's look at the types of accomodation, and how they broke down in terms of price. I started off using a boxplot, but I added on `geom_jitter` because it gave me a better sense of the distribution. Here, I've also plotted each campground just once.
 
 ```{r}
 data %>% 
+    distinct(campground, .keep_all = TRUE) %>% 
     mutate(type = reorder(type, price)) %>%
     ggplot(aes(x = type, y = price)) +
     geom_boxplot(fill = "palegreen") +
@@ -103,6 +105,7 @@ Some of these categories seem to be more detailed than necessary, so let's group
 
 ```{r}
 data_refact <- data %>% 
+    distinct(campground, .keep_all = TRUE) %>% 
     mutate(type = fct_collapse(type,
                                Federal = c("Army Corps of Engineers",
                                            "BLM Boondocking",
@@ -137,11 +140,10 @@ Perhaps what we really need is a comparison across states. A state like Californ
 
 ```{r}
 plot_states <- data_refact %>% 
-    filter(type %in% c("State", "Federal")) %>% 
-    separate(city, c("city", "state"), sep = ", ", extra = "merge") %>% 
-    filter(!str_detect(state, "Ontario|British")) %>% #filter out Canada
+    filter(type %in% c("State", "Federal"),
+           !str_detect(state, "Ontario|British")) %>% #filter out Canada
     mutate(state = reorder(state, price)) %>% 
-    ggplot(aes(x = state, y = price, color = type)) +
+    ggplot(aes(x = state, y = price, color = type, text = campground)) +
     geom_jitter() +
     coord_flip()
 
