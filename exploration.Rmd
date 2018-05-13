@@ -66,16 +66,18 @@ Most of us think of housing costs in terms of the cost per month, so let's redo 
 data_monthly <- data %>% 
     mutate(month = month(arrived),
            year = year(arrived),
-           date = ymd(paste(year, month, 1, sep = "-"))) %>% 
-    group_by(date, month) %>% 
+           date = ymd(paste(year, month, 1, sep = "-")),
+           date_lab = paste(year, month, sep = "-")) %>% #for labeling
+    group_by(date, date_lab) %>% 
     summarize(month_price = sum(price))
 
 plot_monthly <- data_monthly %>% 
-    ggplot(aes(x = date, y = month_price, text = month)) +
+    ggplot(aes(x = date, y = month_price)) +
     geom_line() +
-    geom_point()
+    geom_point(aes(text = date_lab)) +
+    xlab("Date") + ylab("Cost per month ($)")
 
-ggplotly(plot_monthly)
+ggplotly(plot_monthly, tooltip = c("month_price", "text"))
 ```
 
 Now we see that early 2017 was an expensive time for the Watsons, but otherwise, they were generally keeping their accomodation costs to less than $1000/month!  Not bad!
@@ -98,9 +100,10 @@ plot_types <- data %>%
     ggplot(aes(x = type, y = price, text = campground)) +
     geom_boxplot(fill = "palegreen") +
     geom_jitter(width = .3) +
-    coord_flip() 
+    coord_flip() +
+    xlab("Price ($)") + ylab("Accomodation type")
 
-ggplotly(plot_types, tooltip = "text")
+ggplotly(plot_types, tooltip = c("text", "price"))
 ```
 
 Some of these categories seem to be more detailed than necessary, so let's group some together. "Boondocking" by definition denotes $0, but maybe we can gain some insight if we group these categories into federal, state, private, and miscellaneous government land.
@@ -132,9 +135,10 @@ plot_refact <- data_refact %>%
     mutate(type = reorder(type, price)) %>%
     ggplot(aes(x = type, y = price, text = campground, color = type)) +
     geom_jitter(width = .3) +
-    coord_flip()
+    coord_flip() +
+    xlab("Price ($)") + ylab("Accomodation type")
 
-ggplotly(plot_refact, tooltip = "text") %>% 
+ggplotly(plot_refact, tooltip = c("text", "price")) %>% 
     hide_legend()
 ```
 
@@ -149,7 +153,8 @@ plot_states <- data_refact %>%
     mutate(state = reorder(state, price)) %>% 
     ggplot(aes(x = state, y = price, color = type, text = campground)) +
     geom_jitter() +
-    coord_flip()
+    coord_flip() +
+    xlab("Price ($)") + ylab("State")
 
 ggplotly(plot_states)
 ```
