@@ -1,0 +1,363 @@
+"arrived","campground","city","state","type","price","full_loc","lon","lat"
+"2012-06-15","Chapin Rd","Essex","Vermont","Private",0,"Chapin Rd, Essex, Vermont",-73.0563493,44.5436667
+"2012-06-16","Long Point State Park","Three Mile Bay","New York","State",30,"Long Point State Park, Three Mile Bay, New York",-76.2208328,44.0260266
+"2012-06-18","Keuka Lake","Keuka Park","New York","State",26,"Keuka Lake, Keuka Park, New York",-77.0919056,42.6151357
+"2012-06-22","Sampson State Park","Romulus","New York","State",30,"Sampson State Park, Romulus, New York",-76.9024564,42.7253526
+"2012-06-24","Buckaloons Recreation Area","Irvine","Pennsylvania","Federal",23,"Buckaloons Recreation Area, Irvine, Pennsylvania",-79.2588579,41.8377472
+"2012-06-27","Penn Wood Airstream Park","New Bethlehem","Pennsylvania","Private",20,"Penn Wood Airstream Park, New Bethlehem, Pennsylvania",-79.3332053,41.1295984
+"2012-06-29","Mosquito Lake State Park","Cortland","Ohio","State",26,"Mosquito Lake State Park, Cortland, Ohio",-80.7688065,41.3029063
+"2012-07-02","Cabelas","Dundee","Michigan","Private",0,"Cabelas, Dundee, Michigan",-83.6762443,41.9644132
+"2012-07-03","A Driveway","Mount Clemens","Michigan","Private",0,"A Driveway, Mount Clemens, Michigan",-82.872079,42.608839
+"2012-07-05","Claybanks Township Park","New Era","Michigan","OtherGov",20,"Claybanks Township Park, New Era, Michigan",-86.4853193,43.5309567
+"2012-07-08","D H Day Campground","Empire","Michigan","Federal",12,"D H Day Campground, Empire, Michigan",-86.0215144,44.8996085
+"2012-07-10","Brevoort Lake Campground","Moran","Michigan","Federal",18,"Brevoort Lake Campground, Moran, Michigan",-84.9196566,45.9961149
+"2012-07-13","Little Bay Campground","Rapid River","Michigan","Federal",12,"Little Bay Campground, Rapid River, Michigan",-86.9787937,45.8410532
+"2012-07-15","Memorial Park","Washburn","Wisconsin","OtherGov",22,"Memorial Park, Washburn, Wisconsin",-90.8801337,46.6762139
+"2012-07-17","Indian Point Campground","Duluth","Minnesota","Private",33,"Indian Point Campground, Duluth, Minnesota",-92.1848823,46.7217837
+"2012-07-20","Gooseberry Falls State Park","Two Harbors","Minnesota","State",22,"Gooseberry Falls State Park, Two Harbors, Minnesota",-91.4637178,47.1455222
+"2012-07-22","Temperance River State Park","Schroeder","Minnesota","State",22,"Temperance River State Park, Schroeder, Minnesota",-90.871819,47.555824
+"2012-07-24","Sandy Lake and Dam","McGregor","Minnesota","Federal",26,"Sandy Lake and Dam, McGregor, Minnesota",-93.308687,46.6068263
+"2012-07-27","Lebanon Hills Park Campground","Saint Paul","Minnesota","OtherGov",25,"Lebanon Hills Park Campground, Saint Paul, Minnesota",-93.1807886,44.7737438
+"2012-07-31","Arlington City Park","Arlington","South Dakota","OtherGov",5,"Arlington City Park, Arlington, South Dakota",-97.1344708,44.3598711
+"2012-08-01","Badlands National Park","Interior","South Dakota","Federal",26,"Badlands National Park, Interior, South Dakota",-101.9396287,43.7339751
+"2012-08-03","Bismark Lake Campground","Custer","South Dakota","Federal",24,"Bismark Lake Campground, Custer, South Dakota",-103.5127229,43.7753901
+"2012-08-04","Riverside Park","Douglas","Wyoming","OtherGov",0,"Riverside Park, Douglas, Wyoming",-105.3921492,42.7627279
+"2012-08-05","Longhorn RV & Motel","Dubois","Wyoming","Private",50,"Longhorn RV & Motel, Dubois, Wyoming",-95.4908499,32.6535348
+"2012-08-07","Turpin Meadow Campground","Moran","Wyoming","Federal",10,"Turpin Meadow Campground, Moran, Wyoming",-110.2646365,43.855997
+"2012-08-09","Signal Mountain Campground","Alta","Wyoming","Federal",21,"Signal Mountain Campground, Alta, Wyoming",-110.6136658,43.8411886
+"2012-08-12","Grassy Lake Rd","Moran","Wyoming","Federal",0,"Grassy Lake Rd, Moran, Wyoming",-110.6719601,44.1107504
+"2012-08-14","Indian Creak","Yellowstone National Park","Wyoming","Federal",15,"Indian Creak, Yellowstone National Park, Wyoming",-110.7370726,44.8847376
+"2012-08-15","Rock Canyon RV Park","Livingston","Montana","Private",37,"Rock Canyon RV Park, Livingston, Montana",-110.576274,45.6102095
+"2012-08-20","Lewis and Clark Cavern State Park","Whitehall","Montana","State",23,"Lewis and Clark Cavern State Park, Whitehall, Montana",-111.8626337,45.8339408
+"2012-08-21","Stuart Mill Bay Campground","Anaconda","Montana","State",12,"Stuart Mill Bay Campground, Anaconda, Montana",-113.2722809,46.1763138
+"2012-08-23","Walmart Supercenter","Missoula","Montana","Private",0,"Walmart Supercenter, Missoula, Montana",-114.0420449,46.8836971
+"2012-08-24","Big Arm State Park","Big Arm","Montana","State",28,"Big Arm State Park, Big Arm, Montana",-114.3109664,47.8110406
+"2012-08-26","Avalanche Campground, Glacier National Park","West Glacier","Montana","Federal",20,"Avalanche Campground, Glacier National Park, West Glacier, Montana",-113.9852778,48.5477778
+"2012-08-29","Apgar Campground, Glacier National Park","West Glacier","Montana","Federal",20,"Apgar Campground, Glacier National Park, West Glacier, Montana",-113.983781,48.525165
+"2012-08-31","Firemans Park Campground","Libby","Montana","OtherGov",5,"Firemans Park Campground, Libby, Montana",-115.5627602,48.3910483
+"2012-09-01","Schweitzer Mountain Resort","Sandpoint","Idaho","Private",0,"Schweitzer Mountain Resort, Sandpoint, Idaho",-116.623398,48.367287
+"2012-09-04","Northern Quest Resort & Casino","Spokane","Washington","Private",0,"Northern Quest Resort & Casino, Spokane, Washington",-117.5626227,47.6584091
+"2012-09-05","Bridgeport State Park","Bridgeport","Washington","State",22,"Bridgeport State Park, Bridgeport, Washington",-119.6091789,48.0148123
+"2012-09-06","Newhalem Campground, Northern Cascades NP","Marblemount","Washington","Federal",12,"Newhalem Campground, Northern Cascades NP, Marblemount, Washington",-121.2608517,48.6710624
+"2012-09-09","Deception Pass State Park","Oak Harbor","Washington","State",29,"Deception Pass State Park, Oak Harbor, Washington",-122.6545085,48.3971201
+"2012-09-12","Fort Worden State Park","Port Townsend","Washington","State",36,"Fort Worden State Park, Port Townsend, Washington",-122.768965,48.13668
+"2012-09-13","Heart O Hills, Olympic National Park","Port Angeles","Washington","Federal",12,"Heart O Hills, Olympic National Park, Port Angeles, Washington",-123.424074,48.0356029
+"2012-09-16","Mora, Olympic National Park","Forks","Washington","Federal",12,"Mora, Olympic National Park, Forks, Washington",-124.6131965,47.9202141
+"2012-09-19","Quinault Marina & RV Park","Ocean Shores","Washington","Private",30,"Quinault Marina & RV Park, Ocean Shores, Washington",-124.1315281,46.9474272
+"2012-09-22","Fort Stevens State Park","Hammond","Oregon","State",27,"Fort Stevens State Park, Hammond, Oregon",-123.9797348,46.1982204
+"2012-09-25","Henry Rierson Spruce Run Campground","Seaside","Oregon","State",10,"Henry Rierson Spruce Run Campground, Seaside, Oregon",-123.6117449,45.8126447
+"2012-09-26","Columbia River RV Park","Portland","Oregon","Private",30,"Columbia River RV Park, Portland, Oregon",-122.6525134,45.6001409
+"2012-09-28","Cape Lookout State Park","Tillamook","Oregon","State",24,"Cape Lookout State Park, Tillamook, Oregon",-123.9714861,45.3558219
+"2012-10-01","Beverly Beach State Park","Newport","Oregon","State",22,"Beverly Beach State Park, Newport, Oregon",-124.0556064,44.7290267
+"2012-10-04","South Beach State Park","Newport","Oregon","State",22,"South Beach State Park, Newport, Oregon",-124.0620087,44.6070975
+"2012-10-09","Valley River Center","Eugene","Oregon","Private",0,"Valley River Center, Eugene, Oregon",-123.1060017,44.0681158
+"2012-10-11","Armitage County Park","Eugene","Oregon","OtherGov",30,"Armitage County Park, Eugene, Oregon",-123.0518424,44.1104683
+"2012-10-14","Bastendorff Beach Park","Coos Bay","Oregon","OtherGov",22,"Bastendorff Beach Park, Coos Bay, Oregon",-124.3483231,43.3431815
+"2012-10-16","Bastendorff Beach ","Coos Bay","Oregon","Federal",0,"Bastendorff Beach , Coos Bay, Oregon",-124.3483231,43.3431815
+"2012-10-17","Winchester Bay RV Resort","Winchester Bay","Oregon","Private",27,"Winchester Bay RV Resort, Winchester Bay, Oregon",-124.1851364,43.6778644
+"2012-10-19","Bullards Beach State Park","Bandon","Oregon","State",20,"Bullards Beach State Park, Bandon, Oregon",-124.408448,43.1189978
+"2012-10-22","Cape Blanco State Park","Sixes","Oregon","State",16,"Cape Blanco State Park, Sixes, Oregon",-124.5639997,42.8376089
+"2012-10-24","Humbug Mountain State Park","Port Orford","Oregon","State",16,"Humbug Mountain State Park, Port Orford, Oregon",-124.4350619,42.6871272
+"2012-10-27","Harris Beach State Park","Brookings","Oregon","State",21,"Harris Beach State Park, Brookings, Oregon",-124.3060599,42.0655479
+"2012-10-31","Florence Keller Regional Park","Crescent City","California","OtherGov",10,"Florence Keller Regional Park, Crescent City, California",-124.149941,41.80698
+"2012-11-02","Clam Beach State Campground","McKinleyville","California","State",15,"Clam Beach State Campground, McKinleyville, California",-124.1145304,40.9951031
+"2012-11-03","Humboldt Redwoods State Park","Miranda","California","State",35,"Humboldt Redwoods State Park, Miranda, California",-123.9039139,40.306744
+"2012-11-04","Van Damme State Park","Little River","California","State",35,"Van Damme State Park, Little River, California",-123.7856709,39.2760673
+"2012-11-05","Westside Regional Park","Bodega Bay","California","OtherGov",30,"Westside Regional Park, Bodega Bay, California",-123.0558604,38.3226382
+"2012-11-07","Sonoma County Fairgrounds","Santa Rosa","California","OtherGov",23,"Sonoma County Fairgrounds, Santa Rosa, California",-122.6998519,38.4302593
+"2012-11-12","Half Moon Bay State Beach","Half Moon Bay","California","State",35,"Half Moon Bay State Beach, Half Moon Bay, California",-122.4489731,37.4760761
+"2012-11-14","New Brighton Beach State Park","Capitola","California","State",35,"New Brighton Beach State Park, Capitola, California",-121.9331294,36.9799747
+"2012-11-15","Laguna Seca Raceway","Monterey","California","OtherGov",25,"Laguna Seca Raceway, Monterey, California",-121.7534634,36.5842902
+"2012-11-17","El Chorro Regional Park","San Luis Obispo","California","OtherGov",23,"El Chorro Regional Park, San Luis Obispo, California",-120.7307496,35.3308058
+"2012-11-19","Brite Valley Aquatic Recreation Area","Tehachapi","California","OtherGov",20,"Brite Valley Aquatic Recreation Area, Tehachapi, California",-118.5404007,35.1062706
+"2012-11-20","Afton Canyon","Baker","California","Federal",0,"Afton Canyon, Baker, California",-116.382825,35.0388681
+"2012-11-21","Paris Las Vegas Resort","Las Vegas","Nevada","Private",0,"Paris Las Vegas Resort, Las Vegas, Nevada",-115.1706705,36.1125414
+"2012-11-23","Govt Wash Rd","Boulder City","Nevada","Federal",0,"Govt Wash Rd, Boulder City, Nevada",-114.8409363,36.1362124
+"2012-12-01","Mojave NP","San Bernardino County","California","Federal",0,"Mojave NP, San Bernardino County, California",-115.4483414,35.155183
+"2012-12-07","Sam's Family Spa Hot Water Resort","Desert Hot Springs","California","Private",38,"Sam's Family Spa Hot Water Resort, Desert Hot Springs, California",-116.4255738,33.9226868
+"2012-12-16","O'Neill Regional Park","Trabuco Canyon","California","OtherGov",20,"O'Neill Regional Park, Trabuco Canyon, California",-117.6003344,33.6520091
+"2012-12-19","Mission Bay RV Resort","San Diego","California","Private",40,"Mission Bay RV Resort, San Diego, California",-117.2159179,32.7979418
+"2012-12-28","Anza-Borrego","Borrego Springs","California","State",0,"Anza-Borrego, Borrego Springs, California",-116.3013266,33.100492
+"2013-01-18","American Girl Mine Rd","Winterhaven","California","Federal",0,"American Girl Mine Rd, Winterhaven, California",-114.8111777,32.8372169
+"2013-01-27","Darby Well Rd","Ajo","Arizona","Federal",0,"Darby Well Rd, Ajo, Arizona",-112.8848528,32.3580339
+"2013-02-04","Gilbert Ray Campground","Tucson","Arizona","OtherGov",20,"Gilbert Ray Campground, Tucson, Arizona",-111.1442103,32.2206542
+"2013-02-11","Catalina State Park","Tucson","Arizona","State",15,"Catalina State Park, Tucson, Arizona",-110.9117361,32.4330096
+"2013-02-24","Lost Dutchman State Park","Apache Junction","Arizona","State",15,"Lost Dutchman State Park, Apache Junction, Arizona",-111.4782199,33.4565317
+"2013-03-08","Usery Mountain Regional Park","Mesa","Arizona","OtherGov",25,"Usery Mountain Regional Park, Mesa, Arizona",-111.6194709,33.4791764
+"2013-03-11","Sedona Boondocking","Sedona","Arizona","Federal",0,"Sedona Boondocking, Sedona, Arizona",-111.7609896,34.8697395
+"2013-03-22","Lone Rock Beach","Kane County","Utah","Federal",10,"Lone Rock Beach, Kane County, Utah",-111.539322,37.0195181
+"2013-03-26","Zion River Resort","Virgin","Utah","Private",47,"Zion River Resort, Virgin, Utah",-113.177575,37.20346
+"2013-03-27","South Campground, Zion NP","Hurricane","Utah","Federal",12,"South Campground, Zion NP, Hurricane, Utah",-112.9836118,37.2040681
+"2013-04-08","Goose Island Campground","Moab","Utah","Federal",15,"Goose Island Campground, Moab, Utah",-109.5581106,38.610891
+"2013-04-22","Sand Flats Recreation Area","Moab","Utah","Federal",10,"Sand Flats Recreation Area, Moab, Utah",-109.5186506,38.5764609
+"2013-04-30","Devil's Canyon Campground","Monticello","Utah","Federal",10,"Devil's Canyon Campground, Monticello, Utah",-109.4090223,37.737751
+"2013-05-03","BLM Boondocking","San Juan County","Utah","Federal",0,"BLM Boondocking, San Juan County, Utah",-109.4281649,38.435775
+"2013-05-06","Gooseneck State Park","San Juan County","Utah","State",0,"Gooseneck State Park, San Juan County, Utah",-109.9270522,37.1742442
+"2013-05-08","La Mesa RV Park","Cortez","Colorado","Private",20,"La Mesa RV Park, Cortez, Colorado",-108.555376,37.352389
+"2013-05-10","Forest Service Rd 316","Hesperus","Colorado","Federal",0,"Forest Service Rd 316, Hesperus, Colorado",-107.8657172,37.2792669
+"2013-05-25","Haviland Lake Campground","Durango","Colorado","Federal",19,"Haviland Lake Campground, Durango, Colorado",-107.8058576,37.5335346
+"2013-05-27","Four J RV","Ridgway","Colorado","Private",32,"Four J RV, Ridgway, Colorado",-107.6740901,38.0255059
+"2013-06-01","Cedar Creek RV Park","Montrose","Colorado","Private",34,"Cedar Creek RV Park, Montrose, Colorado",-107.8593177,38.4863895
+"2013-06-08","Curecanti National Recreation Area","Gunnison","Colorado","Federal",12,"Curecanti National Recreation Area, Gunnison, Colorado",-107.1666799,38.4657461
+"2013-06-09","Rosy Lane Campground","Gunnison County","Colorado","Federal",18,"Rosy Lane Campground, Gunnison County, Colorado",-106.7466667,38.7305556
+"2013-06-14","Crested Butte Boondocking","Crested Butte","Colorado","Federal",0,"Crested Butte Boondocking, Crested Butte, Colorado",-106.9805036,38.8691868
+"2013-06-23","Salida Boondocking","Salida","Colorado","Federal",0,"Salida Boondocking, Salida, Colorado",-105.9923798,38.5377575
+"2013-06-30","Silver Dollar Campground","Leadville","Colorado","Federal",18,"Silver Dollar Campground, Leadville, Colorado",-106.3522049,39.2596654
+"2013-07-05","Leadville Boondocking","Leadville","Colorado","Federal",0,"Leadville Boondocking, Leadville, Colorado",-106.2909352,39.2451842
+"2013-07-07","Peak One Campground","Breckenridge","Colorado","Federal",18,"Peak One Campground, Breckenridge, Colorado",-106.0708601,39.5842637
+"2013-07-13","Stillwater Campground","Granby","Colorado","Federal",22,"Stillwater Campground, Granby, Colorado",-105.891125,40.18165
+"2013-07-20","Boyd Lake State Park","Loveland","Colorado","State",18,"Boyd Lake State Park, Loveland, Colorado",-105.044691,40.429818
+"2013-07-27","Scottsbluff Walmart","Scottsbluff","Nebraska","Private",0,"Scottsbluff Walmart, Scottsbluff, Nebraska",-103.6775642,41.8797432
+"2013-07-28","Roost Resort","Custer","South Dakota","Private",30,"Roost Resort, Custer, South Dakota",-103.5647049,43.7703792
+"2013-08-03","Walmart","Bozeman","Montana","Private",0,"Walmart, Bozeman, Montana",-111.0421996,45.6947753
+"2013-08-04","Jim & Mary's RV Park","Missoula","Montana","Private",34,"Jim & Mary's RV Park, Missoula, Montana",-93.384186,36.5181464
+"2013-08-11","Private Property","Tonasket","Washington","Private",0,"Private Property, Tonasket, Washington",-119.439504,48.7051529
+"2013-08-16","13 Mile Campground","Republic","Washington","Federal",0,"13 Mile Campground, Republic, Washington",-117.6229706,48.6599282
+"2013-08-25","West Bay Beach Resort","West Kelowna","British Columbia","Private",57,"West Bay Beach Resort, West Kelowna, British Columbia",-119.577799,49.831319
+"2013-08-27","Illecillewaet Campground","Columbia-Shuswap A","British Columbia","Federal",17,"Illecillewaet Campground, Columbia-Shuswap A, British Columbia",-117.495281,51.266116
+"2013-08-29","Tunnel mountain Campground","Improvement District No. 9","Alberta","Federal",34,"Tunnel mountain Campground, Improvement District No. 9, Alberta",-115.5377221,51.1891157
+"2013-09-01","Fish Creek Campground","West Glacier","Montana","Federal",23,"Fish Creek Campground, West Glacier, Montana",-113.9852778,48.5477778
+"2013-09-03","Apgar Campground","West Glacier","Montana","Federal",20,"Apgar Campground, West Glacier, Montana",-113.983781,48.525165
+"2013-09-06","Cabela's Retail Store","Post Falls","Idaho","Private",0,"Cabela's Retail Store, Post Falls, Idaho",-117.039382,47.6993527
+"2013-09-07","Memaloose State Park","Mosier","Oregon","State",19,"Memaloose State Park, Mosier, Oregon",-121.3383419,45.6954002
+"2013-09-14","Bend Boondocking","Bend","Oregon","Federal",0,"Bend Boondocking, Bend, Oregon",-121.3113141,44.030207
+"2013-09-27","Diamond Lake Campground","Crescent","Oregon","Federal",22,"Diamond Lake Campground, Crescent, Oregon",-122.133642,43.15817
+"2013-09-29","Eagle Lake","Susanville","California","Federal",0,"Eagle Lake, Susanville, California",-120.6530063,40.4162842
+"2013-10-04","Washoe Lake State Park","New Washoe City","Nevada","State",17,"Washoe Lake State Park, New Washoe City, Nevada",-119.7638924,39.2419952
+"2013-10-06","June Lake Boondocking","Mono County","California","Federal",0,"June Lake Boondocking, Mono County, California",-119.1264967,37.7831345
+"2013-10-10","Mammoth Boondocking","Mammoth Lakes","California","Federal",0,"Mammoth Boondocking, Mammoth Lakes, California",-118.958434,37.645159
+"2013-10-13","Bishop Boondocking","Bishop","California","Federal",0,"Bishop Boondocking, Bishop, California",-118.5934585,37.2444925
+"2013-10-26","Tuttle Creek Campground","Inyo County","California","Federal",5,"Tuttle Creek Campground, Inyo County, California",-118.1261991,36.5649341
+"2013-10-31","Alabama Hill Boondocking","Inyo County","California","Federal",0,"Alabama Hill Boondocking, Inyo County, California",-118.1,36.61
+"2013-11-09","Lake Mead Boondocking","Boulder City","Nevada","Federal",0,"Lake Mead Boondocking, Boulder City, Nevada",-114.8019366,36.0371075
+"2013-12-29","Anza Borrego Boondocking","Borrego Springs","California","State",0,"Anza Borrego Boondocking, Borrego Springs, California",-116.3013266,33.100492
+"2014-01-18","Quartzsite Boondocking","Quartzsite","Arizona","Federal",0,"Quartzsite Boondocking, Quartzsite, Arizona",-114.2160343,33.6254606
+"2014-02-08","McDowell Mountain Regional Park","Scottsdale","Arizona","OtherGov",25,"McDowell Mountain Regional Park, Scottsdale, Arizona",-111.6978411,33.6673908
+"2014-02-23","Las Cienegas Boondocking","Elgin","Arizona","Federal",0,"Las Cienegas Boondocking, Elgin, Arizona",-110.5842632,31.7811961
+"2014-03-02","Queen Mine RV Park","Bisbee","Arizona","Private",25,"Queen Mine RV Park, Bisbee, Arizona",-109.911911,31.439673
+"2014-03-09","Indian Bread Rocks","Bowie","Arizona","Federal",0,"Indian Bread Rocks, Bowie, Arizona",-109.4997239,32.238637
+"2014-03-15","Walmart Deming","Deming","New Mexico","Private",0,"Walmart Deming, Deming, New Mexico",-107.747058,32.270558
+"2014-03-16","City of Rocks State Park","Faywood","New Mexico","State",10,"City of Rocks State Park, Faywood, New Mexico",-107.9740553,32.5880778
+"2014-03-23","Rock Hound State Park","Deming","New Mexico","State",14,"Rock Hound State Park, Deming, New Mexico",-107.61223,32.1859751
+"2014-03-29","Walmart Las Cruces","Las Cruces","New Mexico","Private",0,"Walmart Las Cruces, Las Cruces, New Mexico",-106.7499799,32.3147306
+"2014-03-30","Leasburg Dam State Park","Las Cruces","New Mexico","State",10,"Leasburg Dam State Park, Las Cruces, New Mexico",-106.9180046,32.4928188
+"2014-04-06","Caballo Lake State Park","Caballo","New Mexico","State",8,"Caballo Lake State Park, Caballo, New Mexico",-107.286944,32.996389
+"2014-04-13","Elephant Butte State Park","Truth or Consequences","New Mexico","State",14,"Elephant Butte State Park, Truth or Consequences, New Mexico",-107.0572778,33.5562068
+"2014-04-19","Enchanted Trails RV Park","Albuquerque","New Mexico","Private",30,"Enchanted Trails RV Park, Albuquerque, New Mexico",-106.810187,35.059762
+"2014-04-27","Oliver Lee Memorial State Park","Alamogordo","New Mexico","State",10,"Oliver Lee Memorial State Park, Alamogordo, New Mexico",-105.918233,32.7476013
+"2014-05-03","Cloudcroft Boondocking","Cloudcroft","New Mexico","Federal",0,"Cloudcroft Boondocking, Cloudcroft, New Mexico",-105.737373,32.967499
+"2014-05-09","Brantley Lake State Park","Artesia","New Mexico","State",8,"Brantley Lake State Park, Artesia, New Mexico",-104.383889,32.551389
+"2014-05-11","Bottomless Lakes State Park","Roswell","New Mexico","State",14,"Bottomless Lakes State Park, Roswell, New Mexico",-104.3347494,33.3382728
+"2014-05-17","Valley of Fires Recreation Area","Carrizozo","New Mexico","Federal",12,"Valley of Fires Recreation Area, Carrizozo, New Mexico",-105.9200025,33.6847844
+"2014-05-18","Santa Fe Skies RV Park","Santa Fe","New Mexico","Private",32,"Santa Fe Skies RV Park, Santa Fe, New Mexico",-106.0430572,35.5888203
+"2014-05-26","Cochiti Lake Recreation Area","Sandoval County","New Mexico","Federal",6,"Cochiti Lake Recreation Area, Sandoval County, New Mexico",-106.3258337,35.6430683
+"2014-05-31","Juniper Campground","Los Alamos","New Mexico","Federal",12,"Juniper Campground, Los Alamos, New Mexico",-106.2800452,35.7960992
+"2014-06-01","Taos Valley RV Park","Taos","New Mexico","Private",33,"Taos Valley RV Park, Taos, New Mexico",-105.5930124,36.3695204
+"2014-06-06","Street Parking, Red River, NM","Red River","New Mexico","Private",0,"Street Parking, Red River, NM, Red River, New Mexico",-105.4061159,36.7080849
+"2014-06-08","Heron Lake State Park","Los Ojos","New Mexico","State",10,"Heron Lake State Park, Los Ojos, New Mexico",-106.6910322,36.6655473
+"2014-06-28","Westerly RV Park","Durango","Colorado","Private",40,"Westerly RV Park, Durango, Colorado",-107.848292,37.3909189
+"2014-07-06","Silverton Lakes Campground","Silverton","Colorado","Private",25,"Silverton Lakes Campground, Silverton, Colorado",-107.6532429,37.8169648
+"2014-08-10","Bear Creek Lake Park","Lakewood","Colorado","OtherGov",20,"Bear Creek Lake Park, Lakewood, Colorado",-105.1434387,39.6519513
+"2014-08-17","Rabbit Pass Boondocking","Steamboat Springs","Colorado","Federal",0,"Rabbit Pass Boondocking, Steamboat Springs, Colorado",-106.8285029,40.4821039
+"2014-08-22","Steamboat Springs ","Steamboat Springs","Colorado","Private",0,"Steamboat Springs , Steamboat Springs, Colorado",-106.8317158,40.4849769
+"2014-08-23","Green River Campground","Jensen","Utah","Federal",12,"Green River Campground, Jensen, Utah",-109.2442331,40.4214024
+"2014-08-24","James Robb State Park","Fruita","Colorado","State",27,"James Robb State Park, Fruita, Colorado",-108.7440637,39.1511506
+"2014-08-31","Lizard Head Pass","Ophir","Colorado","Federal",0,"Lizard Head Pass, Ophir, Colorado",-107.9061783,37.811106
+"2014-09-01","Telluride Town Park","Telluride","Colorado","OtherGov",30,"Telluride Town Park, Telluride, Colorado",-107.8072982,37.9341099
+"2014-09-08","Pikes Peak RV Park","Manitou Springs","Colorado","Private",34,"Pikes Peak RV Park, Manitou Springs, Colorado",-104.899817,38.856839
+"2014-09-14","Pinyon Flats Campground","Mosca","Colorado","Federal",20,"Pinyon Flats Campground, Mosca, Colorado",-105.5047232,37.7456714
+"2014-09-21","Los Alamos Boondocking","Los Alamos","New Mexico","Federal",0,"Los Alamos Boondocking, Los Alamos, New Mexico",-106.2800452,35.7960992
+"2014-09-28","Santa Fe Skies","Santa Fe","New Mexico","Private",40,"Santa Fe Skies, Santa Fe, New Mexico",-106.0430572,35.5888203
+"2014-10-02","Route 66 Casino","Albuquerque","New Mexico","Private",0,"Route 66 Casino, Albuquerque, New Mexico",-106.9534335,35.0284345
+"2014-10-03","Albuquerque Balloon Fiesta","Albuquerque","New Mexico","Private",70,"Albuquerque Balloon Fiesta, Albuquerque, New Mexico",-106.5970373,35.1965128
+"2014-10-07","Bottomless Lake State Park","Roswell","New Mexico","State",14,"Bottomless Lake State Park, Roswell, New Mexico",-104.3347494,33.3382728
+"2014-10-11","Walmart San Angelo","San Angelo","Texas","Private",0,"Walmart San Angelo, San Angelo, Texas",-100.4607143,31.4878717
+"2014-10-12","Austin Lone Start RV Resort","Austin","Texas","Private",36,"Austin Lone Start RV Resort, Austin, Texas",-97.7709388,30.184789
+"2014-10-19","McKinney Falls State Park","Austin","Texas","State",27,"McKinney Falls State Park, Austin, Texas",-97.7217397,30.1803582
+"2014-10-24","Houston Walmart","Humble","Texas","Private",0,"Houston Walmart, Humble, Texas",-95.2527627,29.9364377
+"2014-10-25","Houston Airport Parking","Houston","Texas","Private",6,"Houston Airport Parking, Houston, Texas",-95.2839491,29.6582621
+"2014-11-02","Baytown Walmart","Baytown","Texas","Private",0,"Baytown Walmart, Baytown, Texas",-94.8969683,29.8172588
+"2014-11-03","Palmetto Island State Park","Abbeville","Louisiana","State",18,"Palmetto Island State Park, Abbeville, Louisiana",-92.1401139,29.8584704
+"2014-11-09","Bayou Segnette State Park","Westwego","Louisiana","State",20,"Bayou Segnette State Park, Westwego, Louisiana",-90.1633558,29.8923001
+"2014-11-16","Gulf State Park","Orange Beach","Alabama","State",29,"Gulf State Park, Orange Beach, Alabama",-87.6441397,30.2648723
+"2014-11-23","Grayton Beach State Park","Santa Rosa Beach","Florida","State",25,"Grayton Beach State Park, Santa Rosa Beach, Florida",-86.1572038,30.3315193
+"2014-11-30","Saint Andrews State Park","Panama City","Florida","State",28,"Saint Andrews State Park, Panama City, Florida",-85.7389139,30.1335386
+"2014-12-13","St George Island State Park","Franklin County","Florida","State",24,"St George Island State Park, Franklin County, Florida",-84.7530376,29.7164753
+"2014-12-14","Highlands Hammock State Park","Sebring","Florida","State",24,"Highlands Hammock State Park, Sebring, Florida",-81.5303488,27.4711532
+"2014-12-24","Driveway - Lake Placid","Lake Placid","Florida","Private",0,"Driveway - Lake Placid, Lake Placid, Florida",-81.3984507,27.2436382
+"2014-12-27","Miccosukee Resort","Miami","Florida","Private",0,"Miccosukee Resort, Miami, Florida",-80.4844316,25.7632789
+"2014-12-28","Driveway - Big Pine Key","Big Pine Key","Florida","Private",0,"Driveway - Big Pine Key, Big Pine Key, Florida",-81.348617,24.6953519
+"2015-01-11","Long Key State Park","Layton","Florida","State",38,"Long Key State Park, Layton, Florida",-80.8230525,24.8161059
+"2015-01-25","Bahia Honda State Park","Big Pine Key","Florida","State",38,"Bahia Honda State Park, Big Pine Key, Florida",-81.2743985,24.659744
+"2015-02-22","John Prince Park","Lake Worth","Florida","OtherGov",31,"John Prince Park, Lake Worth, Florida",-80.082825,26.604446
+"2015-02-28","Bill Frederick Park","Orlando","Florida","OtherGov",19,"Bill Frederick Park, Orlando, Florida",-81.4823858,28.5070409
+"2015-03-07","Anastasia State Park","Saint Augustine","Florida","State",28,"Anastasia State Park, Saint Augustine, Florida",-81.2781909,29.8724034
+"2015-03-14","St Marys Walmart","Kingsland","Georgia","Private",0,"St Marys Walmart, Kingsland, Georgia",-81.6187772,30.77824
+"2015-03-15","Blythe Island Regional Park","Brunswick","Georgia","OtherGov",32,"Blythe Island Regional Park, Brunswick, Georgia",-81.542942,31.155897
+"2015-03-21","Savannah GA Visitors Center","Savannah","Georgia","Private",14,"Savannah GA Visitors Center, Savannah, Georgia",-81.0993006,32.0760804
+"2015-03-22","Skidaway Island State Park","Savannah","Georgia","State",39,"Skidaway Island State Park, Savannah, Georgia",-81.0536383,31.9556232
+"2015-03-28","Charleston SC Visitors Center","Charleston","South Carolina","Private",16,"Charleston SC Visitors Center, Charleston, South Carolina",-79.936842,32.7894181
+"2015-04-12","McDowell Nature Preserve","Charlotte","North Carolina","OtherGov",33,"McDowell Nature Preserve, Charlotte, North Carolina",-81.020447,35.100134
+"2015-04-25","Cape Hatteras National Seashore","Frisco","North Carolina","Federal",20,"Cape Hatteras National Seashore, Frisco, North Carolina",-75.6051316,35.2355025
+"2015-04-26","Ocean Waves Campground","Nags Head","North Carolina","Private",37,"Ocean Waves Campground, Nags Head, North Carolina",-75.4655341,35.5715521
+"2015-05-03","First Landing State Park","Virginia Beach","Virginia","State",38,"First Landing State Park, Virginia Beach, Virginia",-76.0191268,36.9078338
+"2015-05-10","Virgnia Highland Haven Airstream Park","Copper Hill","Virginia","Private",27,"Virgnia Highland Haven Airstream Park, Copper Hill, Virginia",-80.192666,37.050989
+"2015-05-17","Rocky Gap State Park","Cumberland","Maryland","State",23,"Rocky Gap State Park, Cumberland, Maryland",-78.6511979,39.6993207
+"2015-05-21","DelFest (Bluegrass Festival)","Cumberland","Maryland","OtherGov",31,"DelFest (Bluegrass Festival), Cumberland, Maryland",-78.7625185,39.6528654
+"2015-05-25","Greenbelt Park","Greenbelt","Maryland","Federal",16,"Greenbelt Park, Greenbelt, Maryland",-76.9011427,38.983031
+"2015-06-02","Tuckahoe State Park","Ridgely","Maryland","State",33,"Tuckahoe State Park, Ridgely, Maryland",-75.9427066,38.9643334
+"2015-06-04","Lums Pond State Park","Bear","Delaware","State",27,"Lums Pond State Park, Bear, Delaware",-75.7190612,39.5603193
+"2015-06-14","Killingworth back yard","Killingworth","Connecticut","Private",0,"Killingworth back yard, Killingworth, Connecticut",-72.5645602,41.3581869
+"2015-06-28","Cape Ann Camp Site","Gloucester","Massachusetts","Private",32,"Cape Ann Camp Site, Gloucester, Massachusetts",-70.7019138,42.6401624
+"2015-07-05","Winslow City Park","Freeport","Maine","OtherGov",35,"Winslow City Park, Freeport, Maine",-70.1152796,43.8015405
+"2015-07-12","Camden Hills State Park","Camden","Maine","State",25,"Camden Hills State Park, Camden, Maine",-69.0482996,44.2310537
+"2015-07-19","Narrows Too","Trenton","Maine","Private",50,"Narrows Too, Trenton, Maine",-68.365672,44.4383064
+"2015-08-01","Salty Acres Campground","Kennebunkport","Maine","Private",44,"Salty Acres Campground, Kennebunkport, Maine",-70.4317295,43.3998873
+"2015-08-08","Falmouth Walmart","Falmouth","Maine","Private",0,"Falmouth Walmart, Falmouth, Maine",-70.2352998,43.7201767
+"2015-08-15","Pine Hollow Campground","Laconia","New Hampshire","Private",35,"Pine Hollow Campground, Laconia, New Hampshire",-71.4805865,43.6140675
+"2015-08-22","Moose Brook State Park","Gorham","New Hampshire","State",25,"Moose Brook State Park, Gorham, New Hampshire",-71.225008,44.3993175
+"2015-08-29","Driveway - Jeffersonville","Cambridge","Vermont","Private",0,"Driveway - Jeffersonville, Cambridge, Vermont",-73.242901,44.534603
+"2015-08-30","Driveway - Shelburne","Shelburne","Vermont","Private",0,"Driveway - Shelburne, Shelburne, Vermont",-73.2249509,44.3872337
+"2015-09-07","Driveway - Cambridge","Cambridge","Vermont","Private",0,"Driveway - Cambridge, Cambridge, Vermont",-72.885906,44.671698
+"2015-09-26","Moreau State Park","Gansevoort","New York","State",26,"Moreau State Park, Gansevoort, New York",-73.704025,43.2304925
+"2015-09-27","Glimmerglass State Park","Cooperstown","New York","State",17,"Glimmerglass State Park, Cooperstown, New York",-74.8621622,42.7866053
+"2015-10-01","Bald Eagle State Park","Howard","Pennsylvania","State",27,"Bald Eagle State Park, Howard, Pennsylvania",-77.6499306,41.0328392
+"2015-10-03","Battle Run Campground","Summersville","West Virginia","Federal",30,"Battle Run Campground, Summersville, West Virginia",-80.9056508,38.2220616
+"2015-10-09","Walmart Morehead","Morehead","Kentucky","Private",0,"Walmart Morehead, Morehead, Kentucky",-83.4819127,38.2015357
+"2015-10-10","Twin Knobs Campground","Clearfield","Kentucky","Federal",29,"Twin Knobs Campground, Clearfield, Kentucky",-83.515048,38.0967464
+"2015-10-15","Kentucky Horse Park","Lexington","Kentucky","State",20,"Kentucky Horse Park, Lexington, Kentucky",-84.5206471,38.1499914
+"2015-10-24","Mammoth Cave Campground","Mammoth Cave","Kentucky","Federal",20,"Mammoth Cave Campground, Mammoth Cave, Kentucky",-86.0973731,37.1829675
+"2015-10-25","Pulaski County Park","Nancy","Kentucky","OtherGov",19,"Pulaski County Park, Nancy, Kentucky",-84.7044911,37.0682829
+"2015-10-28","Standing Stone State Park","Overton County","Tennessee","State",20,"Standing Stone State Park, Overton County, Tennessee",-85.4160509,36.4710877
+"2015-10-31","Bear Creek RV & Campground","Asheville","North Carolina","Private",40,"Bear Creek RV & Campground, Asheville, North Carolina",-78.20852,40.335046
+"2015-11-03","Elmore RV Park","Charlotte","North Carolina","Private",32,"Elmore RV Park, Charlotte, North Carolina",-80.7851298,35.257714
+"2015-11-07","Smokemont Campground","Cherokee","North Carolina","Federal",17,"Smokemont Campground, Cherokee, North Carolina",-83.3115743,35.5578104
+"2015-11-08","Douglas Dam Headwater Campground","Sevierville","Tennessee","Federal",25,"Douglas Dam Headwater Campground, Sevierville, Tennessee",-83.5356669,35.9573445
+"2015-11-11","Fall Creek Falls State Park","Pikeville","Tennessee","State",20,"Fall Creek Falls State Park, Pikeville, Tennessee",-85.3453829,35.6547109
+"2015-11-15","Rock Island State Park","Rock Island","Tennessee","State",23,"Rock Island State Park, Rock Island, Tennessee",-85.6419066,35.8103701
+"2015-11-21","Edgar Evins State Park","Silver Point","Tennessee","State",23,"Edgar Evins State Park, Silver Point, Tennessee",-85.812994,36.0878208
+"2015-11-25","Grand Ole RV Resort","Goodlettsville","Tennessee","Private",35,"Grand Ole RV Resort, Goodlettsville, Tennessee",-86.7189773,36.3375263
+"2015-11-28","Jeff Busby Campground","Ackerman","Mississippi","Federal",0,"Jeff Busby Campground, Ackerman, Mississippi",-89.2585998,33.4165248
+"2015-11-29","Indian Creek","Woodworth","Louisiana","State",18,"Indian Creek, Woodworth, Louisiana",-92.4942686,31.1345934
+"2015-12-02","Martin Dies Jr State Park","Jasper","Texas","State",24,"Martin Dies Jr State Park, Jasper, Texas",-94.1680669,30.8492951
+"2015-12-07","Yegua Creek Park","Brenham","Texas","Federal",25,"Yegua Creek Park, Brenham, Texas",-96.540746,30.2969549
+"2015-12-09","Wallmart - Kerrville","Kerrville","Texas","Private",0,"Wallmart - Kerrville, Kerrville, Texas",-99.167214,30.06287
+"2015-12-10","Caverns of Sonora","Sonora","Texas","Private",20,"Caverns of Sonora, Sonora, Texas",-100.81222,30.555084
+"2015-12-11","Camping World","Anthony","Texas","Private",0,"Camping World, Anthony, Texas",-106.580966,31.9796632
+"2015-12-12","SKP Saguaro Co-Op","Benson","Arizona","Private",8,"SKP Saguaro Co-Op, Benson, Arizona",-110.2903218,31.9433467
+"2016-01-10","Kofa Wilderness","Quartzsite","Arizona","Federal",0,"Kofa Wilderness, Quartzsite, Arizona",-113.8584758,33.2664452
+"2016-01-29","Casino Arizona","Scottsdale","Arizona","Private",0,"Casino Arizona, Scottsdale, Arizona",-111.8856936,33.45438
+"2016-02-07","Joshua Tree South","Riverside County","California","Federal",0,"Joshua Tree South, Riverside County, California",-115.9009923,33.873415
+"2016-02-13","Tortoise Rock Casino","Twentynine Palms","California","Private",0,"Tortoise Rock Casino, Twentynine Palms, California",-116.0515837,34.1196042
+"2016-02-14","Mojave Bookdocking","San Bernardino County","California","Federal",0,"Mojave Bookdocking, San Bernardino County, California",-115.4733551,35.0109911
+"2016-02-28","Stewarts Point","Clark County","Nevada","Federal",0,"Stewarts Point, Clark County, Nevada",-114.4077543,36.3805337
+"2016-03-06","Sand Hollow State Park","Hurricane","Utah","State",28,"Sand Hollow State Park, Hurricane, Utah",-113.382039,37.1199996
+"2016-03-13","Virgin Boondocking","La Verkin","Utah","Federal",0,"Virgin Boondocking, La Verkin, Utah",-113.2349122,37.1964221
+"2016-03-20","North Campground","Bryce","Utah","Federal",30,"North Campground, Bryce, Utah",-112.1669029,37.6352027
+"2016-03-26","Spencer Flat Rd","Garfield County","Utah","Federal",0,"Spencer Flat Rd, Garfield County, Utah",-111.399793,37.7184904
+"2016-04-03","Thousand Lakes RV Park","Torrey","Utah","Private",34,"Thousand Lakes RV Park, Torrey, Utah",-111.4450497,38.3018122
+"2016-04-09","Willow Springs Trail","Moab","Utah","Federal",0,"Willow Springs Trail, Moab, Utah",-109.63368,38.7013506
+"2016-04-16","Dalton Well Road","Moab","Utah","Federal",0,"Dalton Well Road, Moab, Utah",-109.6904437,38.7236625
+"2016-04-29","Horsethief Campground","Grand County","Utah","Federal",15,"Horsethief Campground, Grand County, Utah",-109.813117,38.5839184
+"2016-05-01","25 Road","Grand Junction","Colorado","Federal",0,"25 Road, Grand Junction, Colorado",-108.5894594,39.1081813
+"2016-05-06","Walmart - Craig","Craig","Colorado","Private",0,"Walmart - Craig, Craig, Colorado",-107.5700113,40.5123172
+"2016-05-07","Walmart - Casper","Casper","Wyoming","Private",0,"Walmart - Casper, Casper, Wyoming",-106.3748994,42.8170815
+"2016-05-08","Belle Fourche River Campground","Devils Tower","Wyoming","Federal",12,"Belle Fourche River Campground, Devils Tower, Wyoming",-104.7063098,44.5815709
+"2016-05-11","Spearfish Campground","Spearfish","South Dakota","OtherGov",25,"Spearfish Campground, Spearfish, South Dakota",-103.8580459,44.479484
+"2016-05-15","Cottonwood Campground","Medora","North Dakota","Federal",14,"Cottonwood Campground, Medora, North Dakota",-103.5318239,46.9509355
+"2016-05-19","Fort Abraham Lincoln State Park","Mandan","North Dakota","State",23,"Fort Abraham Lincoln State Park, Mandan, North Dakota",-100.8478347,46.7660582
+"2016-05-22","Buffalo River State Park","Glyndon","Minnesota","State",37,"Buffalo River State Park, Glyndon, Minnesota",-96.4745248,46.872484
+"2016-05-27","Cass Lake Campground","Cass Lake","Minnesota","Federal",21,"Cass Lake Campground, Cass Lake, Minnesota",-94.529,47.38
+"2016-06-10","Deer Lake Campground","Deer River","Minnesota","Federal",16,"Deer Lake Campground, Deer River, Minnesota",-94.1058333,47.5141667
+"2016-06-11","Scenic State Park","Bigfork","Minnesota","State",21,"Scenic State Park, Bigfork, Minnesota",-93.5668361,47.7032549
+"2016-06-12","Wooden Frog Campground","Ray","Minnesota","State",14,"Wooden Frog Campground, Ray, Minnesota",-93.0583742,48.4833486
+"2016-06-17","Grassy Island South","Ray","Minnesota","Federal",25,"Grassy Island South, Ray, Minnesota",-93.2237546,48.6124286
+"2016-06-19","Arnold's Campground","International Falls","Minnesota","Private",32,"Arnold's Campground, International Falls, Minnesota",-93.4020817,48.5833946
+"2016-06-20","Kakabeka Falls Provincial Park","Kakabeka Falls","Ontario","State",32,"Kakabeka Falls Provincial Park, Kakabeka Falls, Ontario",-89.63243,48.3971359
+"2016-06-21","Rainbow Falls Provincial Park","Rossport","Ontario","State",32,"Rainbow Falls Provincial Park, Rossport, Ontario",-87.4448955,48.8384492
+"2016-06-22","Neys Provincial Park","Marathon","Ontario","State",28,"Neys Provincial Park, Marathon, Ontario",-86.5815353,48.7702057
+"2016-06-23","Pukaskwa National Park","Unorganized Thunder Bay District","Ontario","Federal",32,"Pukaskwa National Park, Unorganized Thunder Bay District, Ontario",-85.8877814,48.2456784
+"2016-06-24","Lake Superior Provincial Park","Algoma","Unorganized, North Part, Ontario","State",32,"Lake Superior Provincial Park, Algoma, Unorganized, North Part, Ontario",-84.8359108,47.7510684
+"2016-06-25","OLG Casino","Sault Ste. Marie","Ontario","Private",0,"OLG Casino, Sault Ste. Marie, Ontario",-84.3436461,46.5170905
+"2016-06-26","Walmart - Renfrew","Renfrew","Ontario","Private",0,"Walmart - Renfrew, Renfrew, Ontario",-76.6557246,45.4794074
+"2016-06-27","Voyageurs Provincial Park","Chute-à-Blondeau","Ontario","State",38,"Voyageurs Provincial Park, Chute-à-Blondeau, Ontario",-74.4518921,45.55831
+"2016-06-29","Narrows Too Camping Resort","Trenton","Maine","Private",37,"Narrows Too Camping Resort, Trenton, Maine",-68.365672,44.4383064
+"2016-08-05","Steele Hill Resort","Sanbornton","New Hampshire","Private",0,"Steele Hill Resort, Sanbornton, New Hampshire",-71.573835,43.550359
+"2016-08-12","Cambridge Friends","Cambridge","Vermont","Private",0,"Cambridge Friends, Cambridge, Vermont",-71.130456,42.38787
+"2016-10-01","Nickerson State Park","Brewster","Massachusetts","State",27,"Nickerson State Park, Brewster, Massachusetts",-70.0318306,41.775023
+"2016-10-08","Coastal Acres Campground","Provincetown","Massachusetts","Private",52,"Coastal Acres Campground, Provincetown, Massachusetts",-70.201331,42.046704
+"2016-10-16","Fishermans Memorial Park","Narragansett","Rhode Island","State",25,"Fishermans Memorial Park, Narragansett, Rhode Island",-71.4915586,41.3795381
+"2016-10-24","Mohegan Sun Casino","Montville","Connecticut","Private",0,"Mohegan Sun Casino, Montville, Connecticut",-72.091456,41.491597
+"2016-10-25","Middletown Driveway","Middletown","Connecticut","Private",0,"Middletown Driveway, Middletown, Connecticut",-72.6409442,41.5449743
+"2016-10-27","Northford Driveway","Northford","Connecticut","Private",0,"Northford Driveway, Northford, Connecticut",-72.7965335,41.3674732
+"2016-11-06","Westmoreland State Park","Montross","Virginia","State",35,"Westmoreland State Park, Montross, Virginia",-76.863559,38.170334
+"2016-11-13","Flanners Beach Campground","New Bern","North Carolina","Federal",17,"Flanners Beach Campground, New Bern, North Carolina",-76.9493589,34.982371
+"2016-11-27","Camping World Racing Resort","Concord","North Carolina","Private",25,"Camping World Racing Resort, Concord, North Carolina",-80.69043,35.358901
+"2016-12-03","Walmart - Hazlehurst","Hazlehurst","Georgia","Private",0,"Walmart - Hazlehurst, Hazlehurst, Georgia",-82.5866061,31.8619272
+"2016-12-04","O'leno State Park","High Springs","Florida","State",18,"O'leno State Park, High Springs, Florida",-82.6034626,29.919494
+"2016-12-10","Juniper Springs","Astor","Florida","Federal",21,"Juniper Springs, Astor, Florida",-81.7129385,29.1808303
+"2016-12-11","Dupuis Campground","Indiantown","Florida","State",0,"Dupuis Campground, Indiantown, Florida",-80.5594866,27.0051583
+"2016-12-17","Miccosukee Casino","Miami","Florida","Private",0,"Miccosukee Casino, Miami, Florida",-80.4844316,25.7632789
+"2017-01-01","House Rental","Big Pine Key","Florida","Private",110,"House Rental, Big Pine Key, Florida",-81.363577,24.670226
+"2017-03-31","Home Depot","Florida City","Florida","Private",0,"Home Depot, Florida City, Florida",-80.472697,25.4596079
+"2017-04-01","Flamingo Campground","Homestead","Florida","Federal",30,"Flamingo Campground, Homestead, Florida",-80.9418152,25.1361939
+"2017-04-02","Koreshan State Park","Estero","Florida","State",26,"Koreshan State Park, Estero, Florida",-81.8156127,26.434777
+"2017-04-08","Cracker Barrel","Punta Gorda","Florida","Private",0,"Cracker Barrel, Punta Gorda, Florida",-82.0492539,27.0178778
+"2017-04-09","Hillsborough River State Park","Thonotosassa","Florida","State",27,"Hillsborough River State Park, Thonotosassa, Florida",-82.2273492,28.1404844
+"2017-04-15","Lazydays RV Resort","Seffner","Florida","Private",49,"Lazydays RV Resort, Seffner, Florida",-82.3032981,28.0126612
+"2017-04-16","Florida Caverns State Park","Marianna","Florida","State",20,"Florida Caverns State Park, Marianna, Florida",-85.212631,30.8084789
+"2017-04-21","Walmart - Monroeville","Monroeville","Alabama","Private",0,"Walmart - Monroeville, Monroeville, Alabama",-87.328286,31.480615
+"2017-04-22","Walmart - McGehee","McGehee","Arkansas","Private",0,"Walmart - McGehee, McGehee, Arkansas",-91.3812093,33.6040745
+"2017-04-23","Gulpha Gorge Campground","Hot Springs Township","Arkansas","Federal",30,"Gulpha Gorge Campground, Hot Springs Township, Arkansas",-93.0363324,34.524193
+"2017-04-30","Petit Jean State Park","Morrilton","Arkansas","State",20,"Petit Jean State Park, Morrilton, Arkansas",-92.9198675,35.1275096
+"2017-05-04","Vine Prairie Park","Mulberry","Arkansas","OtherGov",20,"Vine Prairie Park, Mulberry, Arkansas",-94.0618503,35.485428
+"2017-05-06","Ozark Highlands","Springfield","Missouri","Private",40,"Ozark Highlands, Springfield, Missouri",-93.2922989,37.2089572
+"2017-05-12","Hawker Point Campground","Stockton","Missouri","Federal",14,"Hawker Point Campground, Stockton, Missouri",-93.7811111,37.6063889
+"2017-05-14","Private Residence","Baldwin City","Kansas","Private",0,"Private Residence, Baldwin City, Kansas",-95.1813178,38.7780643
+"2017-05-20","Arbys","Limon","Colorado","Private",0,"Arbys, Limon, Colorado",-103.70884,39.2689777
+"2017-05-21","Clear Creek RV Park","Golden","Colorado","OtherGov",40,"Clear Creek RV Park, Golden, Colorado",-105.2324044,39.7532704
+"2017-05-27","Friends House","Idaho Springs","Colorado","Private",0,"Friends House, Idaho Springs, Colorado",-105.5136081,39.7424881
+"2017-06-11","Forest Rd 296","Steamboat Springs","Colorado","Federal",0,"Forest Rd 296, Steamboat Springs, Colorado",-106.729804,40.3800836
+"2017-06-18","Sweetwater Event Complex","Rock Springs","Wyoming","OtherGov",25,"Sweetwater Event Complex, Rock Springs, Wyoming",-109.2485926,41.6378917
+"2017-06-24","12th St","Evanston","Wyoming","Private",0,"12th St, Evanston, Wyoming",-110.970726,41.2669374
+"2017-06-25","National Forest Rd 281","Irwin","Idaho","Federal",0,"National Forest Rd 281, Irwin, Idaho",-111.2993914,43.4085283
+"2017-07-04","Teton Canyon Rd","Moose","Wyoming","Federal",0,"Teton Canyon Rd, Moose, Wyoming",-110.9593186,43.7581065
+"2017-07-22","Lava Flow Campground","Arco","Idaho","Federal",15,"Lava Flow Campground, Arco, Idaho",-113.5579491,43.4610495
+"2017-07-23","Boundry Campground","Hailey","Idaho","Federal",10,"Boundry Campground, Hailey, Idaho",-114.326718,43.721917
+"2017-07-27","Lake Creek Road","Hailey","Idaho","Federal",0,"Lake Creek Road, Hailey, Idaho",-114.3443047,43.7537802
+"2017-08-05","Stanley Boondocking 1","Stanley","Idaho","Federal",0,"Stanley Boondocking 1, Stanley, Idaho",-114.8224341,43.894715
+"2017-08-25","Stanley Boondocking 2","Stanley","Idaho","Federal",0,"Stanley Boondocking 2, Stanley, Idaho",-114.8224341,43.894715
+"2017-09-02","Boise Riverside RV Park","Garden City","Idaho","Private",0,"Boise Riverside RV Park, Garden City, Idaho",-116.2761476,43.6580074
+"2017-09-09","Burley Walmart","Heyburn","Idaho","Private",0,"Burley Walmart, Heyburn, Idaho",-113.79,42.56
+"2017-09-10","Spruces Campground","Salt Lake City","Utah","Federal",23,"Spruces Campground, Salt Lake City, Utah",-111.6376178,40.6422387
+"2017-09-17","Jordanelle State Park","Heber City","Utah","State",30,"Jordanelle State Park, Heber City, Utah",-111.4175033,40.6213961
+"2017-09-24","Wedge Overlook Campsite #2","Emery County","Utah","Federal",0,"Wedge Overlook Campsite #2, Emery County, Utah",-110.7493544,39.0960046
+"2017-09-29","San Rafael Swell","Emery County","Utah","Federal",0,"San Rafael Swell, Emery County, Utah",-110.6773837,38.8235827
+"2017-10-01","Beas Lewis Flat","Torrey","Utah","Federal",0,"Beas Lewis Flat, Torrey, Utah",-111.3221169,38.2908134
+"2017-10-06","Burr Trail Rd","Boulder","Utah","Federal",0,"Burr Trail Rd, Boulder, Utah",-111.4064443,37.8949058
+"2017-10-07","Hole in the Rock","Escalante","Utah","Federal",0,"Hole in the Rock, Escalante, Utah",-111.4441942,37.6340684
+"2017-10-15","Rubys RV Park","Bryce","Utah","Private",32,"Rubys RV Park, Bryce, Utah",-112.158598,37.668416
+"2017-10-22","Twin Hollow","Kane County","Utah","Federal",0,"Twin Hollow, Kane County, Utah",-112.6879879,37.2108172
+"2017-10-29","Lee's Ferry Campground","Marble Canyon","Arizona","Federal",20,"Lee's Ferry Campground, Marble Canyon, Arizona",-111.6061931,36.8593924
+"2017-11-03","Forest Rd 225","North Rim","Arizona","Federal",0,"Forest Rd 225, North Rim, Arizona",-112.1581243,36.6872124
+"2017-11-05","Sheep Bridge Rd","La Verkin","Utah","Federal",0,"Sheep Bridge Rd, La Verkin, Utah",-113.2105472,37.2011402
+"2017-11-18","Watchman Campground","Hurricane","Utah","Federal",30,"Watchman Campground, Hurricane, Utah",-112.9893818,37.1954056
+"2017-12-03","Temple View RV Resort","St. George","Utah","Private",36,"Temple View RV Resort, St. George, Utah",-113.582323,37.091493
+"2017-12-08","Storage","St. George","Utah","Private",5,"Storage, St. George, Utah",-113.588372,37.096183
+"2017-12-28","Eureka Casino Resort","Mesquite","Nevada","Private",0,"Eureka Casino Resort, Mesquite, Nevada",-114.064151,36.816826
+"2017-12-29","Dome Rock Rd","Quartzsite","Arizona","Federal",0,"Dome Rock Rd, Quartzsite, Arizona",-114.3357937,33.6467484
+"2017-12-30","Palm Canyon Rd","Yuma","Arizona","Federal",0,"Palm Canyon Rd, Yuma, Arizona",-114.1630568,33.3709125
+"2018-02-04","Twin Peaks Campground - Organ Pipe","Ajo","Arizona","Federal",16,"Twin Peaks Campground - Organ Pipe, Ajo, Arizona",-112.8111399,31.9429205
+"2018-02-16","Viejas Casino","Alpine","California","Private",0,"Viejas Casino, Alpine, California",-116.7054382,32.8413413
+"2018-02-17","Surf and Turf RV Park","Del Mar","California","Private",32,"Surf and Turf RV Park, Del Mar, California",-117.2558847,32.9772188
+"2018-02-25","South Carlsbad State Beach","Carlsbad","California","State",50,"South Carlsbad State Beach, Carlsbad, California",-117.320145,33.1026212
+"2018-03-01","San Clemente State Beach","San Clemente","California","State",65,"San Clemente State Beach, San Clemente, California",-117.6028514,33.4043306
+"2018-03-05","Doheny State Beach","Dana Point","California","State",40,"Doheny State Beach, Dana Point, California",-117.6878769,33.4631511
+"2018-03-11","Thronhill Broome State Beach","Malibu","California","State",35,"Thronhill Broome State Beach, Malibu, California",-119.0294447,34.0797658
+"2018-03-15","Camarillo AirBnB","Camarillo","California","Private",83,"Camarillo AirBnB, Camarillo, California",-119.0376023,34.2163937
+"2018-03-30","Castaic Lake","Castaic","California","State",20,"Castaic Lake, Castaic, California",-118.6185629,34.5068794
+"2018-03-31","Auxiliary Dam Campground","Lake Isabella","California","Federal",0,"Auxiliary Dam Campground, Lake Isabella, California",-118.4639112,35.6417628
+"2018-04-11","Paradise Cove","Lake Isabella","California","Federal",28,"Paradise Cove, Lake Isabella, California",-118.4277423,35.6482869
+"2018-04-14","Three Rivers Campground","Three Rivers","California","State",45,"Three Rivers Campground, Three Rivers, California",-118.8989721,36.4492265
+"2018-04-17","Horse Creek Campground","Lemon Cove","California","Federal",20,"Horse Creek Campground, Lemon Cove, California",-118.9581288,36.3899976
+"2018-04-22","Azalea Campground","Hume","California","Federal",18,"Azalea Campground, Hume, California",-118.9656278,36.7435639
