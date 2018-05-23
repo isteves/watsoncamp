@@ -1,33 +1,21 @@
----
-output: 
-    html_document:
-        toc: true
-        toc_float: true
----
+## Mapping
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+#### Set-up
+
+We'll need a few new packages to make this work: the [leaflet](https://rstudio.github.io/leaflet/) package for interactive maps, and the [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) package for adding color!
+
+```{r echo = FALSE}
+data_geo <- read.csv("data/data_geocoded.csv")
+library(tidyverse)
 ```
 
-# Prologue
-
-In my [exploration](https://isteves.github.io/watsoncamp/exploration.html) of the Watson's camping data, I grabbed data from their [website](http://www.watsonswander.com/where/) and cleaned it into a form I could use.
-
-I then used the amazing `mutate_geocode()` function from the `ggmap` package to get the campground/city/state data into lat/longs that I could use for mapping ([script](https://github.com/isteves/watsoncamp/blob/master/geocode_data.R)). A big thanks to [this blogpost](https://www.jessesadler.com/post/geocoding-with-r/) by Jesse Sadler for getting me started.
-
-Here, I dig into mapping these points, which is easy with the [leaflet](https://rstudio.github.io/leaflet/) package.
-
-# Set-up
-
-To start, let's load the relevant packages and read in the data I've prepared so far.
 
 ```{r warning = FALSE, message = FALSE}
 library(leaflet)
 library(viridis)
-library(tidyverse)
-
-data_geo <- read.csv("data/data_geocoded.csv")
 ```
+
+#### Categorization
 
 I'm most interested in the prices of the campsites, so I'll categorize them into four groups: "free", "cheap" (less than $12/night, as defined by [freecampsites.net](https://freecampsites.net/about/)), "moderate" (about double "cheap"), and "expensive" (as far as sleeping in a tent is concerned).
 
@@ -48,7 +36,7 @@ pal <- colorFactor(viridis_pal()(4),
 
 ```
 
-# Mapping time!
+#### Leafleting
 
 With just a few lines of code, my map is ready to go. Voila!
 
@@ -62,3 +50,5 @@ m <- leaflet(data_geo) %>%
 m 
 ```
 
+<br>
+In green are the free sites, purple is "cheap", yellow is "moderate", and blue is "expensive". If you click on a site, you can see the campground (or sometimes parking lot/airbnb) name and the price.

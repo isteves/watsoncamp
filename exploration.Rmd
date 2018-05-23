@@ -1,22 +1,10 @@
----
-title: "The wandering Watsons"
-author: "Irene Steves"
-date: "April 30, 2018"
-output:
-  html_document:
-    toc: true
-    toc_float: true
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
-```
-
 I love long camping adventures, but I also love camping vicariously through couples like the [Watsons](http://www.watsonswander.com/), who make adventure their life. The Watsons are particularly cool because they've used their talents to make an [awesome website](http://www.watsonswander.com/) with beautiful [maps](http://www.watsonswander.com/where/) of their journey over the years, as well as data about it.
 
 I was curious about how much this kind of lifestyle costs, so I did some quick plotting. But first, I needed get the data into R. 
 
-## Reading in the data
+## Data exploration
+
+#### Reading in the data
 
 While it's possible to grab data directly from the web, I decided to go the copy and paste approach. I copied the [table of camping locations and prices](http://www.watsonswander.com/where/) from their website and saved it into a text file. Then, I read it in and cleaned it.
 
@@ -25,7 +13,7 @@ library(tidyverse)
 library(lubridate)
 library(plotly)
 
-data_raw <- readLines("data.txt")
+data_raw <- readLines("data/data.txt")
 
 date_seq <- tibble(arrived = ymd("2012-06-14") + 1:2142)
 
@@ -46,7 +34,7 @@ data <- tibble(text = data_raw[-1]) %>%
 print(data)
 ```
 
-## Plotting
+#### Cumulative cost
 
 With the data in R, I could do some plotting! I started with the cumulative cost of the trip - how much the Watsons have spent so far on accomodation alone.
 
@@ -59,6 +47,8 @@ plot_cumcost <- data %>%
 
 ggplotly(plot_cumcost)
 ```
+
+#### Cost per month
 
 Most of us think of housing costs in terms of the cost per month, so let's redo the graph a little:
 
@@ -90,6 +80,8 @@ mean(data_monthly_clean$month_price)
 ```
 
 In fact, the mean cost is about $600.
+
+#### Types of accomodation
 
 Now let's look at the types of accomodation, and how they broke down in terms of price. I started off using a boxplot, but I added on `geom_jitter` because it gave me a better sense of the distribution. Here, I've also plotted each campground just once.
 
@@ -147,6 +139,8 @@ ggplotly(plot_refact, tooltip = c("text", "price")) %>%
 
 Here we can kind of see that federal and state parks are similar in price, but federal land has more boondocking options. The private category now spans the cheapest and most expensive extremes because it includes both parking lots (at Walmarts and casinos, for the most part) and house rentals. 
 
+#### State comparison
+
 Perhaps what we really need is a comparison across states. A state like California, for example, can be very expensive (at least on the coast), especially compared to a state with a lot of federal land, like Nevada. To keep things simple, I filtered out the wild variation found in the private and other government categories, keeping just `State` and `Federal`. I then plotted as before, but this time by state:
 
 ```{r}
@@ -165,6 +159,3 @@ ggplotly(plot_states)
 California's looking pretty crazy! It has both a lot of expensive camping options (I can definitely attest to this) and really cheap (free) options. 
 
 Otherwise, the West (as expected) is generally pretty cheap camping, mostly thanks to amazing federal land and its boondocking splendor. 
-
-## Conclusion
-That's all the exploration I've got time for now. Feel free to file an issue/pull request if you have ideas of what else to look into!

@@ -1,0 +1,15 @@
+## Geocoding
+
+Geocoding - getting the lat/longs from the description of a location - is an amazing but somewhat expensive process. The `mutate_geocode` function from the `ggmap` package goes row by row through your location description column and makes calls to the Google Maps API (or [Data Science Toolkit](http://www.datasciencetoolkit.org/about)). In my case, it could not find all values the first time around, so I had to repeat the process several times until I had lat/longs for all my locations. You can see that in my [original script](https://github.com/isteves/watsoncamp/blob/master/geocode_data.R).
+
+Here, I've cleaned the script up a bit, and here's what it looks like:
+
+```{r eval = FALSE}
+library(ggmap)
+data_geo <- data_refact %>% 
+    distinct() %>% 
+    mutate(full_loc = paste(campground, city, state, sep = ", ")) %>% 
+    mutate_geocode(full_loc)
+```
+
+With this information, it's easy to go onto the next step, and map the locations!  A big thanks to [this blogpost](https://www.jessesadler.com/post/geocoding-with-r/) by Jesse Sadler for getting me started on the geocoding process.
