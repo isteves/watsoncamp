@@ -1,0 +1,64 @@
+---
+output: 
+    html_document:
+        toc: true
+        toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Prologue
+
+In my [exploration](https://isteves.github.io/watsoncamp/exploration.html) of the Watson's camping data, I grabbed data from their [website](http://www.watsonswander.com/where/) and cleaned it into a form I could use.
+
+I then used the amazing `mutate_geocode()` function from the `ggmap` package to get the campground/city/state data into lat/longs that I could use for mapping ([script](https://github.com/isteves/watsoncamp/blob/master/geocode_data.R)). A big thanks to [this blogpost](https://www.jessesadler.com/post/geocoding-with-r/) by Jesse Sadler for getting me started.
+
+Here, I dig into mapping these points, which is easy with the [leaflet](https://rstudio.github.io/leaflet/) package.
+
+# Set-up
+
+To start, let's load the relevant packages and read in the data I've prepared so far.
+
+```{r warning = FALSE, message = FALSE}
+library(leaflet)
+library(viridis)
+library(tidyverse)
+
+data_geo <- read.csv("data/data_geocoded.csv")
+```
+
+I'm most interested in the prices of the campsites, so I'll categorize them into four groups: "free", "cheap" (less than $12/night, as defined by [freecampsites.net](https://freecampsites.net/about/)), "moderate" (about double "cheap"), and "expensive" (as far as sleeping in a tent is concerned).
+
+```{r}
+data_geo <- data_geo %>% 
+    mutate(price_cat = case_when(
+        price == 0 ~ "free",
+        price > 0 & price <= 12 ~ "cheap",
+        price > 12 & price <= 25 ~ "moderate",
+        price > 25 ~ "expensive"))
+```
+
+Along with the categories, I need to define a color palette. Here, I've just used the viridis pre-sets.
+
+```{r}
+pal <- colorFactor(viridis_pal()(4), 
+                   domain = c("free", "cheap", "moderate", "expensive"))
+
+```
+
+# Mapping time!
+
+With just a few lines of code, my map is ready to go. Voila!
+
+```{r message = FALSE, warning = FALSE}
+m <- leaflet(data_geo) %>%
+    addTiles() %>%  
+    addCircleMarkers(color = ~pal(price_cat),
+                     popup = paste(data_geo$campground,
+                                   data_geo$price,
+                                   sep = ", $"))
+m 
+```
+
