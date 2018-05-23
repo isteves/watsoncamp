@@ -131,6 +131,9 @@ data_refact <- data %>%
                                OtherGov = c("City Park",
                                             "County Park"))) 
 
+#let's first save it for future use...
+write.csv(data_refact, "data/data_refact.csv")
+
 plot_refact <- data_refact %>% 
     mutate(type = reorder(type, price)) %>%
     ggplot(aes(x = type, y = price, text = campground, color = type)) +
