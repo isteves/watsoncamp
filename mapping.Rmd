@@ -1,7 +1,5 @@
 ## Mapping
 
-#### Set-up
-
 We'll need a few new packages to make this work: the [leaflet](https://rstudio.github.io/leaflet/) package for interactive maps, and the [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) package for adding color!
 
 ```{r echo = FALSE}
@@ -14,8 +12,6 @@ library(tidyverse)
 library(leaflet)
 library(viridis)
 ```
-
-#### Categorization
 
 I'm most interested in the prices of the campsites, so I'll categorize them into four groups: "free", "cheap" (less than $12/night, as defined by [freecampsites.net](https://freecampsites.net/about/)), "moderate" (about double "cheap"), and "expensive" (as far as sleeping in a tent is concerned).
 
@@ -36,8 +32,6 @@ pal <- colorFactor(viridis_pal()(4),
 
 ```
 
-#### Leafleting
-
 With just a few lines of code, my map is ready to go. Voila!
 
 ```{r message = FALSE, warning = FALSE}
@@ -50,5 +44,5 @@ m <- leaflet(data_geo) %>%
 m 
 ```
 
-<br>
+<br><br>
 In green are the free sites, purple is "cheap", yellow is "moderate", and blue is "expensive". If you click on a site, you can see the campground (or sometimes parking lot/airbnb) name and the price.
