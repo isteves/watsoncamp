@@ -41,7 +41,8 @@ plot_cumcost <- data %>%
     mutate(cum_cost = cumsum(price)) %>% 
     ggplot(aes(x = arrived, y = cum_cost, text = arrived)) +
     geom_point() +
-    xlab("Date") + ylab("Cumulative cost ($)")
+    xlab("Date") + ylab("Cumulative cost ($)") +
+    theme_bw()
 
 ggplotly(plot_cumcost, tooltip = "text")
 ```
@@ -65,7 +66,8 @@ plot_monthly <- data_monthly %>%
     ggplot(aes(x = date, y = month_price)) +
     geom_line() +
     geom_point(aes(text = date_lab)) +
-    xlab("Date") + ylab("Cost per month ($)")
+    xlab("Date") + ylab("Cost per month ($)") +
+    theme_bw()
 
 ggplotly(plot_monthly, tooltip = c("month_price", "text"))
 ```
@@ -93,7 +95,8 @@ plot_types <- data %>%
     geom_boxplot(fill = "palegreen") +
     geom_jitter(width = .3) +
     coord_flip() +
-    xlab("Price ($)") + ylab("Accomodation type")
+    xlab("Price ($)") + ylab("Accomodation type") +
+    theme_bw()
 
 ggplotly(plot_types, tooltip = c("text", "price"))
 ```
@@ -131,7 +134,8 @@ plot_refact <- data_refact %>%
     ggplot(aes(x = type, y = price, text = campground, color = type)) +
     geom_jitter(width = .3) +
     coord_flip() +
-    xlab("Price ($)") + ylab("Accomodation type")
+    xlab("Price ($)") + ylab("Accomodation type") +
+    theme_bw()
 
 ggplotly(plot_refact, tooltip = c("text", "price")) %>% 
     hide_legend()
@@ -151,7 +155,8 @@ plot_states <- data_refact %>%
     ggplot(aes(x = state, y = price, color = type, text = campground)) +
     geom_jitter() +
     coord_flip() +
-    xlab("Price ($)") + ylab("State")
+    xlab("Price ($)") + ylab("State") +
+    theme_bw()
 
 ggplotly(plot_states)
 ```
